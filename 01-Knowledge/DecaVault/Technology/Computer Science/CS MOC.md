@@ -1,0 +1,5 @@
+[[CN MOC|Computer Networks MOC]]
+[[DSA MOC|Data Structures and Algorithms MOC]]
+[[DBMS MOC|Database Managment System MOC]]
+[[OS MOC|Operating Systems MOC]]
+[[Java MOC]]

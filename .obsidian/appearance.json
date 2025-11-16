@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Sanctum",
+  "accentColor": "#ec6572",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "baseFontSize": 14,
+  "baseFontSizeAction": false
+}

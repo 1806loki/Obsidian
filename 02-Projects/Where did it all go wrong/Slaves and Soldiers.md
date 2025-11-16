@@ -1,0 +1,1 @@
+Why Do Soldiers sacrifice their lifes
