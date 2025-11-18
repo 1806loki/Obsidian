@@ -1,6 +1,6 @@
 Batch Testing 
 
-Swagger Link :
+Swagger Link 
 https://dev-backflipt-eval.xeninc.us/docs#/batch%20evaluation
 
 Staging URL = http://sentinel-ai-analytics-svc.staging.svc.cluster.local 
