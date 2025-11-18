@@ -320,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TAACOs for PC Agent"
+              "title": "Outline of Batch Testing"
             }
           },
           {
@@ -377,14 +377,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbbfb2a0e09f6781",
+  "active": "7df18cbbb560ead2",
   "lastOpenFiles": [
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
     "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
     "02-Projects/Projects MOC.md",
     "02-Projects/Mimir/Mimir Dashoboard.md",
     "02-Projects/Mimir/Mimir.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
     "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md",
     "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
