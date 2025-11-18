@@ -288,7 +288,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "02-Projects/Sophia OS/Sophia OS MOC.md",
+        "pattern": "02-Projects/Sophia OS/Sophia OS Dashboard.md",
         "patternType": "STRICT"
       },
       {

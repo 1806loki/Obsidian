@@ -1,16 +1,108 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-18",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
+    },
+    {
+      "basename": "TAACOs for PC Agent",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
+    },
+    {
+      "basename": "TAACOS",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
+    },
+    {
+      "basename": "Freud’s Stages of Psychosexual Developmental",
+      "path": "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md"
+    },
+    {
       "basename": "Deploymnet Process",
       "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
     },
     {
-      "basename": "Personal-Creds",
-      "path": "00-Inbox/Personal/Personal-Creds.md"
+      "basename": "Blog Dashboard",
+      "path": "02-Projects/Blog/Blog Dashboard.md"
     },
     {
-      "basename": "Buys",
-      "path": "00-Inbox/Personal/Buys.md"
+      "basename": "Ideas",
+      "path": "02-Projects/Blog/Ideas.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "WDIAGW Dashboard",
+      "path": "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md"
+    },
+    {
+      "basename": "Unsorted",
+      "path": "02-Projects/Where did it all go wrong/Unsorted.md"
+    },
+    {
+      "basename": "Strong Belief",
+      "path": "02-Projects/Where did it all go wrong/Strong Belief.md"
+    },
+    {
+      "basename": "Slaves and Soldiers",
+      "path": "02-Projects/Where did it all go wrong/Slaves and Soldiers.md"
+    },
+    {
+      "basename": "Emotions and their real purpose",
+      "path": "02-Projects/Where did it all go wrong/Emotions and their real purpose.md"
+    },
+    {
+      "basename": "People",
+      "path": "02-Projects/Where did it all go wrong/People.md"
+    },
+    {
+      "basename": "God",
+      "path": "02-Projects/Where did it all go wrong/God.md"
+    },
+    {
+      "basename": "Projects MOC",
+      "path": "02-Projects/Projects MOC.md"
+    },
+    {
+      "basename": "Skills",
+      "path": "00-Inbox/Work/Job/Skills.md"
+    },
+    {
+      "basename": "Sophia OS Dashboard",
+      "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
+    },
+    {
+      "basename": "LLM Dashboard",
+      "path": "02-Projects/LLM/LLM Dashboard.md"
+    },
+    {
+      "basename": "Mimir",
+      "path": "02-Projects/Mimir/Mimir.md"
+    },
+    {
+      "basename": "2025-10-15",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
+    },
+    {
+      "basename": "2025-10-01",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
+    },
+    {
+      "basename": "Backlog",
+      "path": "00-Inbox/Work/Backflipt/Tasks/Backlog.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "00-Inbox/Personal/Notes.md"
+    },
+    {
+      "basename": "Vector Embeddings",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
+    },
+    {
+      "basename": "Personal-Creds",
+      "path": "00-Inbox/Personal/Personal-Creds.md"
     },
     {
       "basename": "Questions",
@@ -25,24 +117,12 @@
       "path": "00-Inbox/Personal/Rough Notes.md"
     },
     {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
-    },
-    {
       "basename": "Questions",
       "path": "00-Inbox/Work/Job/Questions.md"
     },
     {
-      "basename": "Vector Embeddings",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
-    },
-    {
       "basename": "Batch Testing",
       "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
-    },
-    {
-      "basename": "TAACOs for PC Agent",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
     },
     {
       "basename": "FileView Improvements",
@@ -51,14 +131,6 @@
     {
       "basename": "FileView",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
-    },
-    {
-      "basename": "Skills",
-      "path": "00-Inbox/Work/Job/Skills.md"
-    },
-    {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
     },
     {
       "basename": "Populate Data",
@@ -127,78 +199,6 @@
     {
       "basename": "Backflipt MOC",
       "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
-    },
-    {
-      "basename": "How Java works",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Java/How Java works.png"
-    },
-    {
-      "basename": "Sophia OS MOC",
-      "path": "02-Projects/Sophia OS/Sophia OS MOC.md"
-    },
-    {
-      "basename": "Competitor Market Analysis",
-      "path": "02-Projects/Sophia OS/Competitor Market Analysis.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "02-Projects/Sophia OS/Plan.md"
-    },
-    {
-      "basename": "2025-10-01",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
-    },
-    {
-      "basename": "2025-10-14",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
-    },
-    {
-      "basename": "Tablespace queries",
-      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
-    },
-    {
-      "basename": "ReAct and CoT",
-      "path": "00-Inbox/Work/Backflipt/FileView/ReAct and CoT.md"
-    },
-    {
-      "basename": "2025-09-30",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
-    },
-    {
-      "basename": "Mimir",
-      "path": "02-Projects/Mimir/Mimir.md"
-    },
-    {
-      "basename": "People",
-      "path": "02-Projects/Where did it all go wrong/People.md"
-    },
-    {
-      "basename": "2025-10-15",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
-    },
-    {
-      "basename": "Project Dashboard",
-      "path": "02-Projects/LLM/Project Dashboard.md"
-    },
-    {
-      "basename": "Blog Dashboard",
-      "path": "02-Projects/Blog/Blog Dashboard.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "02-Projects/Blog/Ideas.md"
-    },
-    {
-      "basename": "Alerts Revamp",
-      "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
-    },
-    {
-      "basename": "Brain Regions & Their Roles",
-      "path": "01-Knowledge/DecaVault/Human Psychology & Influence/Brain/Brain Regions & Their Roles.md"
-    },
-    {
-      "basename": "De-clutter",
-      "path": "00-Inbox/Personal/De-clutter.md"
     }
   ],
   "omittedPaths": [],

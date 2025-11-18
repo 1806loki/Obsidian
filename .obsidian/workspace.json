@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/Credentials.md",
-                "mode": "preview",
+                "file": "02-Projects/Blog/Blog Dashboard.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credentials"
+              "title": "Blog Dashboard"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploymnet Process"
+              "title": "TAACOs for PC Agent"
             }
           },
           {
@@ -97,24 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Job/Skills.md",
+                "file": "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
-            }
-          },
-          {
-            "id": "5c60423f1b03832d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "WDIAGW Dashboard"
             }
           },
           {
@@ -137,51 +125,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector Embeddings"
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
-        "id": "4ffab537a7a26e3a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aaa53f3df5839a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Personal/Personal-Creds.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Personal-Creds"
-            }
-          },
-          {
-            "id": "dd1f5cb3dececcbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+                "file": "02-Projects/Projects MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploymnet Process"
+              "title": "Projects MOC"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "f566bfc1a53060e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6809b074d57cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-18"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tech/AI/LLM/RAG/vectorEmbeddings",
+                "query": "PC agent Eva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -331,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+                "file": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deploymnet Process"
+              "title": "Outline of 2025-11-18"
             }
           },
           {
@@ -384,38 +357,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd1f5cb3dececcbb",
+  "active": "e403edc1f5f71d80",
   "lastOpenFiles": [
-    "00-Inbox/Personal/Personal-Creds.md",
-    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-    "00-Inbox/Personal/Buys.md",
-    "00-Inbox/Personal/Questions.md",
-    "00-Inbox/Personal/Website Inforamation.md",
-    "00-Inbox/Personal/Rough Notes.md",
-    "00-Inbox/Work/Backflipt/Credentials.md",
-    "00-Inbox/Work/Job/Questions.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
-    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView Improvements.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView.md",
-    "00-Inbox/Work/Job/Skills.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
-    "00-Inbox/Work/Backflipt/FileView/Populate Data.md",
-    "00-Inbox/Work/Job/Job Details.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Two Sum.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md",
-    "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md",
-    "00-Inbox/Inbox MOC.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/AI MOC.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/LLM MOC.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG MOC.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/Agent to Agent Communication.md",
+    "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md",
+    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+    "02-Projects/Blog/Blog Dashboard.md",
+    "02-Projects/Blog/Ideas.md",
+    "00-Inbox/Work/Backflipt/Credentials.md",
+    "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md",
+    "02-Projects/Where did it all go wrong/Unsorted.md",
+    "02-Projects/Where did it all go wrong/Strong Belief.md",
+    "02-Projects/Where did it all go wrong/Slaves and Soldiers.md",
+    "02-Projects/Where did it all go wrong/Emotions and their real purpose.md",
+    "02-Projects/Where did it all go wrong/People.md",
+    "02-Projects/Where did it all go wrong/God.md",
+    "02-Projects/Projects MOC.md",
+    "00-Inbox/Work/Job/Skills.md",
+    "02-Projects/Sophia OS/Sophia OS Dashboard.md",
+    "02-Projects/LLM/LLM Dashboard.md",
+    "02-Projects/Mimir/Mimir.md",
+    "2025-11-18.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
+    "00-Inbox/Work/Backflipt/Tasks/Backlog.md",
+    "00-Inbox/Personal/Notes.md",
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI",

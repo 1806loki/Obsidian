@@ -1,10 +1,7 @@
 #psychology/psychosexual
 Sigmund Freud, the father of psychoanalysis, proposed that human development occurs in distinct stages during childhood, each with a different focus of the libido. These stages are known as Freud’s Stages of Psychosexual Development.
 
-## Oral Stage
-
-The oral stage occurs from birth to 18 months. During this stage, the child explores the world through the mouth and develops the ability to trust others. If a child is not properly cared for during this stage or is overindulged, they may develop oral fixation or become overly dependent on others.
-
+## Oral pp
 ## Anal Stage
 
 The anal stage occurs from 18 months to 3 years. During this stage, the child learns to control their bowel movements and experiences pleasure from doing so. If a child is not properly toilet trained, they may develop anal fixation or become overly obsessed with cleanliness.
