@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects MOC",
+      "path": "02-Projects/Projects MOC.md"
+    },
+    {
+      "basename": "Mimir Dashoboard",
+      "path": "02-Projects/Mimir/Mimir Dashoboard.md"
+    },
+    {
+      "basename": "Mimir",
+      "path": "02-Projects/Mimir/Mimir.md"
+    },
+    {
       "basename": "2025-11-18",
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
     },
@@ -61,10 +73,6 @@
       "path": "02-Projects/Where did it all go wrong/God.md"
     },
     {
-      "basename": "Projects MOC",
-      "path": "02-Projects/Projects MOC.md"
-    },
-    {
       "basename": "Skills",
       "path": "00-Inbox/Work/Job/Skills.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "LLM Dashboard",
       "path": "02-Projects/LLM/LLM Dashboard.md"
-    },
-    {
-      "basename": "Mimir",
-      "path": "02-Projects/Mimir/Mimir.md"
     },
     {
       "basename": "2025-10-15",
@@ -195,10 +199,6 @@
     {
       "basename": "Deep Learning MOC",
       "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Deep Learning/Deep Learning MOC.md"
-    },
-    {
-      "basename": "Backflipt MOC",
-      "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
     }
   ],
   "omittedPaths": [],
