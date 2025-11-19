@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
-                "mode": "source",
+                "file": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TAACOS"
+              "title": "2025-11-18"
             }
           },
           {
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "f566bfc1a53060e4",
@@ -202,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PC agent Eva",
+                "query": "Pc agent eva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,7 +233,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4bc663717b3a4164",
@@ -320,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
+                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Batch Testing"
+              "title": "Outline of TAACOs for PC Agent"
             }
           },
           {
@@ -377,15 +378,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7df18cbbb560ead2",
+  "active": "67cba37b36051594",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
     "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
     "02-Projects/Projects MOC.md",
     "02-Projects/Mimir/Mimir Dashoboard.md",
     "02-Projects/Mimir/Mimir.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
     "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md",
     "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
     "02-Projects/Blog/Blog Dashboard.md",
