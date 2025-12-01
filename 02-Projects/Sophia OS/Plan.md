@@ -78,11 +78,4 @@ App is a **"The Personal Exploration Hub"**, a place where users:
     
 
 ---
-
-### **Additional Considerations:**
-
-- **Offline Access** to learning plans and resources.
-    
-- **Performance**: The system should handle large amounts of data efficiently.
-    
-- **Integrations** with other tools (e.g., calendar, task manager) for better planning.
+It should be able to create a customizable learning plan based on Pareto’s principle, designed to fit a chosen timeframe such as a week, a semester, or a year. The plan should incorporate the reason for learning—whether for academics, a hobby, or a personal passion—and conclude with an assessment, such as multiple-choice questions or an essay. The assessment should provide feedback on my performance and identify any knowledge gaps that remain between my current understanding and my learning goals.

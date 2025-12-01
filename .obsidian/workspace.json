@@ -83,12 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
-                "mode": "preview",
+                "file": "02-Projects/Sophia OS/Plan.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-18"
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "9c6809b074d57cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ST Data"
             }
           },
           {
@@ -125,51 +139,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Projects/Projects MOC.md",
-                "mode": "source",
+                "file": "00-Inbox/Work/Job/Questions.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects MOC"
+              "title": "Questions"
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "f566bfc1a53060e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c6809b074d57cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Projects/Projects MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projects MOC"
-            }
-          },
-          {
-            "id": "7df18cbbb560ead2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Batch Testing"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -202,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pc agent eva",
+                "query": "pc agent eva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,8 +212,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4bc663717b3a4164",
@@ -255,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d11e82af689e601",
@@ -321,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TAACOs for PC Agent"
+              "title": "Outline of ST Data"
             }
           },
           {
@@ -378,34 +355,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67cba37b36051594",
+  "active": "fa65ab98a8004f21",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
-    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
+    "~$sentinelData.xlsx",
+    "sentinelData.xlsx",
+    "00-Inbox/Personal/Life/Life Skills.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "FileView Data Analysis.pdf",
+    "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
-    "02-Projects/Projects MOC.md",
-    "02-Projects/Mimir/Mimir Dashoboard.md",
-    "02-Projects/Mimir/Mimir.md",
-    "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md",
-    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-    "02-Projects/Blog/Blog Dashboard.md",
-    "02-Projects/Blog/Ideas.md",
+    "PC_Eval_1.xlsx",
+    "00-Inbox/Personal/Notes.md",
+    "00-Inbox/Work/Work MOC.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md",
+    "00-Inbox/Personal/Rough Notes.md",
     "00-Inbox/Work/Backflipt/Credentials.md",
-    "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md",
-    "02-Projects/Where did it all go wrong/Unsorted.md",
-    "02-Projects/Where did it all go wrong/Strong Belief.md",
-    "02-Projects/Where did it all go wrong/Slaves and Soldiers.md",
-    "02-Projects/Where did it all go wrong/Emotions and their real purpose.md",
-    "02-Projects/Where did it all go wrong/People.md",
-    "02-Projects/Where did it all go wrong/God.md",
-    "00-Inbox/Work/Job/Skills.md",
-    "02-Projects/Sophia OS/Sophia OS Dashboard.md",
-    "02-Projects/LLM/LLM Dashboard.md",
-    "2025-11-18.md",
+    "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md",
+    "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
+    "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
-    "00-Inbox/Work/Backflipt/Tasks/Backlog.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
+    "Pasted image 20251126115726.png",
+    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
+    "00-Inbox/Work/Job/Questions.md",
+    "02-Projects/Projects MOC.md",
+    "00-Inbox/Personal/De-clutter.md",
+    "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md",
+    "02-Projects/Sophia OS/Plan.md",
+    "02-Projects/Sophia OS/Sophia OS Dashboard.md",
+    "02-Projects/Sophia OS/Competitor Market Analysis.md",
+    "02-Projects/Mimir/Mimir.md",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI",
@@ -414,13 +396,9 @@
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Deep Learning",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM",
     "Untitled.base",
-    "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
     "Pasted image 20251028162007.png",
     "01-Knowledge/DecaVault/Technology/Computer Science/Java/How Java works.png",
     "00-Inbox/Work/Job",
-    "02-Projects/Arte OS/Untitled.base",
-    "02-Projects/Sophia OS",
-    "02-Projects/Job",
     "Pasted image 20250911172723.png",
     "Pasted image 20250910150840.png",
     "Pasted image 20250911172245.png",

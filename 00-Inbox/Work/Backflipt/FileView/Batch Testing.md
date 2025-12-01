@@ -6,6 +6,7 @@ https://dev-backflipt-eval.xeninc.us/docs#/batch%20evaluation
 Staging URL = http://sentinel-ai-analytics-svc.staging.svc.cluster.local 
  QA URL = http://sentinel-ai-analytics-svc.qa-nyl.svc.cluster.local
 
+#### SQL Metric
 
 ```json
 {
@@ -48,6 +49,44 @@ Staging URL = http://sentinel-ai-analytics-svc.staging.svc.cluster.local
             "metrics": ["GEval"],
             "criteria": "The evaluation process should begin by identifying the chart type in both the expected and actual outputs, ensuring that they match. Then, the data points in both outputs should be identified and compared to confirm they are consistent.If there is any variation in case, it should be ignored, as the meaning remains consistent. Any keys other than the 'chart type' and 'data_points' should be explicitly excluded from the evaluation process to avoid influencing the results. Finally, the chart types and data points must be confirmed to align with the criteria, ensuring that no other keys are considered in the evaluation",
             "evaluationParams": ["actual_output", "expected_output"]
+          }
+        ]
+      }
+    ],
+    "authentication": {
+      "sid": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMywiZW1haWxfaWQiOiJhbm9vcGNoYW5kcmFAYmFja2ZsaXB0LmNvbSJ9.1g-MxodeSa_A7evY3TMrmgJh9J4YxxMTYvBdYt1fBoUW5Y_X7943w7t9h5md9dOpOAERkPgMh0zl6Z7217AGoQ"
+    },
+    "generateVariantQuestions": true,
+    "endpointCallsCountForConsistencyEval": 10,
+    "variantQuestionsCount": 0
+  }
+}
+```
+
+
+### Tool Accuracy 
+```
+{
+  "outputGeneration": {
+    "endpoints": [
+      {
+        "url": "http://sentinel-ai-analytics-svc.staging.svc.cluster.local/conversation",
+        "body": {
+          "question": "",
+          "question_id": "123",
+          "chat_id": "decomp_12",
+          "time_zone": "Asia/Calcutta",
+          "__refs": {
+            "question": ""
+          }
+        },
+        "evals": [
+          {
+            "name": "Tool Call Accuracy check",
+            "path": [],
+            "metrics": [
+              "ToolCallAccuracy"
+            ]
           }
         ]
       }

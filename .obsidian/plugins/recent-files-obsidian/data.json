@@ -1,40 +1,124 @@
 {
   "recentFiles": [
     {
+      "basename": "ST Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
+    },
+    {
+      "basename": "Life Skills",
+      "path": "00-Inbox/Personal/Life/Life Skills.md"
+    },
+    {
+      "basename": "FileView MOC",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
+    },
+    {
       "basename": "2025-11-18",
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
     },
     {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
+      "basename": "Notes",
+      "path": "00-Inbox/Personal/Notes.md"
+    },
+    {
+      "basename": "Work MOC",
+      "path": "00-Inbox/Work/Work MOC.md"
+    },
+    {
+      "basename": "2025-11-26",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
+    },
+    {
+      "basename": "Rough Notes",
+      "path": "00-Inbox/Personal/Rough Notes.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "Decomposition of Prompts",
+      "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
+    },
+    {
+      "basename": "Claude Monthly Cost",
+      "path": "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png"
+    },
+    {
+      "basename": "Alerts Revamp",
+      "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
+    },
+    {
+      "basename": "2025-10-15",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
+    },
+    {
+      "basename": "2025-10-14",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
+    },
+    {
+      "basename": "2025-10-01",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
+    },
+    {
+      "basename": "2025-09-30",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
+    },
+    {
+      "basename": "Deploymnet Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
     },
     {
       "basename": "Batch Testing",
       "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
     },
     {
-      "basename": "TAACOs for PC Agent",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
+      "basename": "Questions",
+      "path": "00-Inbox/Work/Job/Questions.md"
     },
     {
       "basename": "Projects MOC",
       "path": "02-Projects/Projects MOC.md"
     },
     {
-      "basename": "Mimir Dashoboard",
-      "path": "02-Projects/Mimir/Mimir Dashoboard.md"
+      "basename": "De-clutter",
+      "path": "00-Inbox/Personal/De-clutter.md"
+    },
+    {
+      "basename": "WDIAGW Dashboard",
+      "path": "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "02-Projects/Sophia OS/Plan.md"
+    },
+    {
+      "basename": "Sophia OS Dashboard",
+      "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
+    },
+    {
+      "basename": "Competitor Market Analysis",
+      "path": "02-Projects/Sophia OS/Competitor Market Analysis.md"
     },
     {
       "basename": "Mimir",
       "path": "02-Projects/Mimir/Mimir.md"
     },
     {
-      "basename": "Freud’s Stages of Psychosexual Developmental",
-      "path": "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md"
+      "basename": "TAACOS",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
     },
     {
-      "basename": "Deploymnet Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
+      "basename": "TAACOs for PC Agent",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
+    },
+    {
+      "basename": "Mimir Dashoboard",
+      "path": "02-Projects/Mimir/Mimir Dashoboard.md"
+    },
+    {
+      "basename": "Freud’s Stages of Psychosexual Developmental",
+      "path": "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md"
     },
     {
       "basename": "Blog Dashboard",
@@ -43,14 +127,6 @@
     {
       "basename": "Ideas",
       "path": "02-Projects/Blog/Ideas.md"
-    },
-    {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
-    },
-    {
-      "basename": "WDIAGW Dashboard",
-      "path": "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md"
     },
     {
       "basename": "Unsorted",
@@ -81,28 +157,12 @@
       "path": "00-Inbox/Work/Job/Skills.md"
     },
     {
-      "basename": "Sophia OS Dashboard",
-      "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
-    },
-    {
       "basename": "LLM Dashboard",
       "path": "02-Projects/LLM/LLM Dashboard.md"
     },
     {
-      "basename": "2025-10-15",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
-    },
-    {
-      "basename": "2025-10-01",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
-    },
-    {
       "basename": "Backlog",
       "path": "00-Inbox/Work/Backflipt/Tasks/Backlog.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "00-Inbox/Personal/Notes.md"
     },
     {
       "basename": "Vector Embeddings",
@@ -119,14 +179,6 @@
     {
       "basename": "Website Inforamation",
       "path": "00-Inbox/Personal/Website Inforamation.md"
-    },
-    {
-      "basename": "Rough Notes",
-      "path": "00-Inbox/Personal/Rough Notes.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "00-Inbox/Work/Job/Questions.md"
     },
     {
       "basename": "FileView Improvements",
@@ -147,58 +199,6 @@
     {
       "basename": "Two Sum",
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Two Sum.md"
-    },
-    {
-      "basename": "DSA MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md"
-    },
-    {
-      "basename": "Decomposition of Prompts",
-      "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
-    },
-    {
-      "basename": "Inbox MOC",
-      "path": "00-Inbox/Inbox MOC.md"
-    },
-    {
-      "basename": "AI MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/AI MOC.md"
-    },
-    {
-      "basename": "Gen-AI MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md"
-    },
-    {
-      "basename": "LLM MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/LLM MOC.md"
-    },
-    {
-      "basename": "RAG MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG MOC.md"
-    },
-    {
-      "basename": "Agent to Agent Communication",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/Agent to Agent Communication.md"
-    },
-    {
-      "basename": "RAG (Reterival-Augmented Generation)",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG (Reterival-Augmented Generation).md"
-    },
-    {
-      "basename": "Basic_RAG",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png"
-    },
-    {
-      "basename": "Advanced_RAG",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png"
-    },
-    {
-      "basename": "Machine Learning MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Machine Learning/Machine Learning MOC.md"
-    },
-    {
-      "basename": "Deep Learning MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Deep Learning/Deep Learning MOC.md"
     }
   ],
   "omittedPaths": [],

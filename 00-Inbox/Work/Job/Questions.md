@@ -5,20 +5,6 @@
 ### Core ML Concepts
 
 - Explain the difference between supervised, unsupervised, and reinforcement learning with examples
-	**Supervised Learning**
-			- The model learns from labeled data (input → correct output).
-			- Goal: predict outputs for unseen data.
-			- Example: Email spam detection (email text → “spam/non-spam”).
-					    
-	**Unsupervised Learning**
-		- No labels. The model finds structure or patterns in data.
-		- Goal: clustering, dimensionality reduction, anomaly detection. 
-		- Example: Customer segmentation using purchase data.
-    
-	**Reinforcement Learning**
-		- Agent interacts with an environment, takes actions, receives rewards, and learns a policy to maximize long-term reward.
-		- Example: Training a robot to walk or an agent playing chess.
-	
 - What is overfitting and underfitting? How do you detect and prevent them?
 - Explain bias-variance tradeoff in model training
 - What is regularization? Explain L1, L2, and dropout regularization
