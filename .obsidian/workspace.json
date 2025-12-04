@@ -106,6 +106,20 @@
             }
           },
           {
+            "id": "251748e7657878f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TAACOs for PC Agent"
+            }
+          },
+          {
             "id": "3d4cf33b1f8b1ac3",
             "type": "leaf",
             "state": {
@@ -148,7 +162,41 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
+      },
+      {
+        "id": "32d59bc24227dca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c79dac210249fe4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ST Data"
+            }
+          },
+          {
+            "id": "24d2782b63143350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TAACOs for Semantic Layer"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pc agent eva",
+                "query": "te",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,13 +403,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa65ab98a8004f21",
+  "active": "c79dac210249fe4f",
   "lastOpenFiles": [
+    "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
+    "Pasted image 20251126115726.png",
+    "README.md",
+    "FileView Data Analysis.pdf",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
     "~$sentinelData.xlsx",
     "sentinelData.xlsx",
     "00-Inbox/Personal/Life/Life Skills.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
-    "FileView Data Analysis.pdf",
     "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
     "PC_Eval_1.xlsx",
@@ -377,17 +432,11 @@
     "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
-    "Pasted image 20251126115726.png",
     "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
     "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
     "00-Inbox/Work/Job/Questions.md",
     "02-Projects/Projects MOC.md",
     "00-Inbox/Personal/De-clutter.md",
-    "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md",
-    "02-Projects/Sophia OS/Plan.md",
-    "02-Projects/Sophia OS/Sophia OS Dashboard.md",
-    "02-Projects/Sophia OS/Competitor Market Analysis.md",
-    "02-Projects/Mimir/Mimir.md",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI",
@@ -398,7 +447,6 @@
     "Untitled.base",
     "Pasted image 20251028162007.png",
     "01-Knowledge/DecaVault/Technology/Computer Science/Java/How Java works.png",
-    "00-Inbox/Work/Job",
     "Pasted image 20250911172723.png",
     "Pasted image 20250910150840.png",
     "Pasted image 20250911172245.png",

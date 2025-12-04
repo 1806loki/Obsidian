@@ -1,5 +1,5 @@
 **Tools for AI Accuracy, Consistency, and Observability**.
- - [ ] Eval Semantic Layer 
  - [x] Question Variations 
- - [ ] [[TAACOs for PC Agent]]
+ - [x] [[TAACOs for PC Agent]]
+ - [ ] [[TAACOs for Semantic Layer]]
 

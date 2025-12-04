@@ -5,6 +5,34 @@
       "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
     },
     {
+      "basename": "2025-12-04",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
+    },
+    {
+      "basename": "TAACOs for Semantic Layer",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
+    },
+    {
+      "basename": "2025-12-03",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
+    },
+    {
+      "basename": "TAACOS",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
+    },
+    {
+      "basename": "Pasted image 20251126115726",
+      "path": "Pasted image 20251126115726.png"
+    },
+    {
+      "basename": "FileView Data Analysis",
+      "path": "FileView Data Analysis.pdf"
+    },
+    {
+      "basename": "TAACOs for PC Agent",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
+    },
+    {
       "basename": "Life Skills",
       "path": "00-Inbox/Personal/Life/Life Skills.md"
     },
@@ -105,14 +133,6 @@
       "path": "02-Projects/Mimir/Mimir.md"
     },
     {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
-    },
-    {
-      "basename": "TAACOs for PC Agent",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
-    },
-    {
       "basename": "Mimir Dashoboard",
       "path": "02-Projects/Mimir/Mimir Dashoboard.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Website Inforamation",
       "path": "00-Inbox/Personal/Website Inforamation.md"
-    },
-    {
-      "basename": "FileView Improvements",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView Improvements.md"
-    },
-    {
-      "basename": "FileView",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
-    },
-    {
-      "basename": "Populate Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/Populate Data.md"
-    },
-    {
-      "basename": "Job Details",
-      "path": "00-Inbox/Work/Job/Job Details.md"
-    },
-    {
-      "basename": "Two Sum",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Two Sum.md"
     }
   ],
   "omittedPaths": [],
