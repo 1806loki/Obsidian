@@ -83,3 +83,9 @@
 
 	- Email : kameswar.tanikella@xenovus.com
 	- Password : DockerBackFlipt$#4422
+
+
+Sentinel Oracle DB Connection String : 
+```
+    st_sentinel_oracle/BackFlipt$$538@database-1.cd2vwwbuesrp.us-east-1.rds.amazonaws.com:1521/ORCL
+```

@@ -1,5 +1,7 @@
+#FileView/SQLQueryGenerationAgent 
 
-![[FileView Data AnAVAILABLEysis.pdf]]
+![[Sentinel-Test Data.pdf]]
+
 
 #### Sentinel Data : 
 
@@ -40,4 +42,80 @@ ptPushPH1C1YK1-0212.docx  SENDING
 ptPushPH1C1YK1-0212.docx  SENT  
 ptPushPH1C1YK1-0212.docx  POST_PROC
 
+
+Queries to find the number of sent and received files using UP1
+
+```sql  
+_/*List of sent and received files*/_  
+SELECT Count(*)  
+FROM   (SELECT DISTINCT coreid,  
+                        x.protocolfilename  
+        FROM   xfbtransfer_h x  
+        WHERE  x.location = 'fileview-st'  
+               AND state IN ( 'SENT', 'RECEIVED' )  
+               AND x.userparameter1 = 'E')  
+  
+_/* Sender And Receiver */_  
+SELECT xh.originalsenderid,  
+       xh.receiverid,  
+       xh.state,  
+       xh.userparameter1,  
+       xh.protocolfilename  
+FROM   xfbtransfer_h xh  
+WHERE  xh.location = 'fileview-st'  
+       AND state IN ( 'SENDING', 'AVAILABLE' )  
+       AND xh.originalsenderid <> xh.receiverid;
+```
+
+
+
+
+#### Populate Data
+- Parameters passed to the function : Number of files, Time period 
+
+List of columns with dynamic values
+- PROTOCOLFILENAME
+-  ORIGINALSENDERID
+- SENDERID
+- RECEIVERID
+- FINALRECEIVERID
+- USERID
+- SITE
+- RETURNMESSAGE
+- COREID
+- EVENTDATETIME
+
+STATE and UP1 sequence and values are already predefined set
+
+**Prompt:**
+I have a CSV file (sentinelData2 - Copy.xlsx - All Phases Data.csv) containing log records for various file transfers. Please write a Python script that analyzes this data and then inserts synthetic records into an Oracle database.
+
+1. Pattern Recognition:
+
+Load the CSV and group the data by COREID.
+
+Identify the unique 'Transfer Types' (distinct sequences of events). For each type, extract the specific sequence of values for: ORIGINALSENDERID, SENDERID, RECEIVERID, FINALRECEIVERID, USERID, SITE, STATE, and UP1. These values must remain consistent for that specific type of transfer.
+
+2. Database Insertion Function: Create a function insert_transfer_data(num_files, time_period_days, db_connection) that accepts the number of files to simulate, the time range, and an active Oracle database connection object. The function should perform the following logic:
+3. Use the FileNa
+
+Loop num_files times:
+
+Select Template: Randomly pick one of the identified Transfer Types.
+
+The Site Column value depends on USERID
+
+Generate Identifiers: Create a unique COREID (UUID) and a PROTOCOLFILENAME. The filename should be prefixed (e.g., Type1_fileA) so the specific transfer type is identifiable.
+
+Use The FILENAMEPATTERN As is for each type of file transfer
+
+Set Time: Generate a random start time within the next time_period_days.
+
+Process Sequence: Iterate through the ordered steps of the selected Transfer Type:
+
+Use the fixed values from the template for the required fields.
+
+Set EVENTDATETIME: Use the start time for the first step, and increment by a few seconds for each subsequent step to ensure chronological order.
+
+Execute Insert: Construct and execute a parameterized SQL INSERT statement using the db_connection cursor to write the row directly to the database table.
 

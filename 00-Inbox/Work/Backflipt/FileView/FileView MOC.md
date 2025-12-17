@@ -6,5 +6,6 @@
 [[FileView]]
 [[Populate Data]]
 [[ReAct and CoT]]
-[[Tablespace queries]]
+[[Semantic Layer Re-vamp]]
 [[ST Data]]
+[[Tablespace queries]]

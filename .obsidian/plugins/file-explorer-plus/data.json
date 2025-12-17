@@ -325,6 +325,27 @@
         "type": "FILES",
         "pattern": "02-Projects/Mimir/Mimir Dashoboard.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

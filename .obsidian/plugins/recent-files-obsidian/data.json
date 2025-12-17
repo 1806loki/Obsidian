@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Semantic Layer Re-vamp",
+      "path": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md"
+    },
+    {
+      "basename": "TAACOs TODOs",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
+    },
+    {
+      "basename": "Batch Testing",
+      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
+    },
+    {
+      "basename": "Competitor Market Analysis",
+      "path": "02-Projects/Sophia OS/Competitor Market Analysis.md"
+    },
+    {
+      "basename": "Sophia OS Dashboard",
+      "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "00-Inbox/Work/Job/Questions.md"
+    },
+    {
+      "basename": "FileView TODOs",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
+    },
+    {
+      "basename": "TAACOS",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
+    },
+    {
+      "basename": "Alerts Revamp",
+      "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
+    },
+    {
       "basename": "ST Data",
       "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
+    },
+    {
+      "basename": "Claude Monthly Cost",
+      "path": "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png"
+    },
+    {
+      "basename": "Chart Details",
+      "path": "00-Inbox/Work/Backflipt/FileView/Chart Details.md"
+    },
+    {
+      "basename": "2025-11-18",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
+    },
+    {
+      "basename": "2025-10-15",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
+    },
+    {
+      "basename": "2025-11-26",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
+    },
+    {
+      "basename": "2025-12-03",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
     },
     {
       "basename": "2025-12-04",
@@ -13,72 +73,80 @@
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
     },
     {
-      "basename": "2025-12-03",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
-    },
-    {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
-    },
-    {
-      "basename": "Pasted image 20251126115726",
-      "path": "Pasted image 20251126115726.png"
-    },
-    {
-      "basename": "FileView Data Analysis",
-      "path": "FileView Data Analysis.pdf"
-    },
-    {
       "basename": "TAACOs for PC Agent",
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
     },
     {
-      "basename": "Life Skills",
-      "path": "00-Inbox/Personal/Life/Life Skills.md"
+      "basename": "Deploymnet Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
     },
     {
       "basename": "FileView MOC",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
     },
     {
-      "basename": "2025-11-18",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "Gen-AI MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md"
+    },
+    {
+      "basename": "Pytorch MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch/Pytorch MOC.md"
+    },
+    {
+      "basename": "AI MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/AI MOC.md"
+    },
+    {
+      "basename": "WDIAGW Dashboard",
+      "path": "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md"
+    },
+    {
+      "basename": "Blog Dashboard",
+      "path": "02-Projects/Blog/Blog Dashboard.md"
+    },
+    {
+      "basename": "Populate Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/Populate Data.md"
     },
     {
       "basename": "Notes",
       "path": "00-Inbox/Personal/Notes.md"
     },
     {
-      "basename": "Work MOC",
-      "path": "00-Inbox/Work/Work MOC.md"
-    },
-    {
-      "basename": "2025-11-26",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
-    },
-    {
       "basename": "Rough Notes",
       "path": "00-Inbox/Personal/Rough Notes.md"
     },
     {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+      "basename": "Pasted image 20251126115726",
+      "path": "Pasted image 20251126115726.png"
+    },
+    {
+      "basename": "Job Details",
+      "path": "00-Inbox/Work/Job/Job Details.md"
+    },
+    {
+      "basename": "6 months plan",
+      "path": "00-Inbox/Work/Job/6 months plan.md"
+    },
+    {
+      "basename": "Skills",
+      "path": "00-Inbox/Work/Job/Skills.md"
+    },
+    {
+      "basename": "Life Skills",
+      "path": "00-Inbox/Personal/Life/Life Skills.md"
+    },
+    {
+      "basename": "Work MOC",
+      "path": "00-Inbox/Work/Work MOC.md"
     },
     {
       "basename": "Decomposition of Prompts",
       "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
-    },
-    {
-      "basename": "Claude Monthly Cost",
-      "path": "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png"
-    },
-    {
-      "basename": "Alerts Revamp",
-      "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
-    },
-    {
-      "basename": "2025-10-15",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
     },
     {
       "basename": "2025-10-14",
@@ -93,18 +161,6 @@
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
     },
     {
-      "basename": "Deploymnet Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
-    },
-    {
-      "basename": "Batch Testing",
-      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "00-Inbox/Work/Job/Questions.md"
-    },
-    {
       "basename": "Projects MOC",
       "path": "02-Projects/Projects MOC.md"
     },
@@ -113,20 +169,8 @@
       "path": "00-Inbox/Personal/De-clutter.md"
     },
     {
-      "basename": "WDIAGW Dashboard",
-      "path": "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md"
-    },
-    {
       "basename": "Plan",
       "path": "02-Projects/Sophia OS/Plan.md"
-    },
-    {
-      "basename": "Sophia OS Dashboard",
-      "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
-    },
-    {
-      "basename": "Competitor Market Analysis",
-      "path": "02-Projects/Sophia OS/Competitor Market Analysis.md"
     },
     {
       "basename": "Mimir",
@@ -139,10 +183,6 @@
     {
       "basename": "Freud’s Stages of Psychosexual Developmental",
       "path": "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md"
-    },
-    {
-      "basename": "Blog Dashboard",
-      "path": "02-Projects/Blog/Blog Dashboard.md"
     },
     {
       "basename": "Ideas",
@@ -159,46 +199,6 @@
     {
       "basename": "Slaves and Soldiers",
       "path": "02-Projects/Where did it all go wrong/Slaves and Soldiers.md"
-    },
-    {
-      "basename": "Emotions and their real purpose",
-      "path": "02-Projects/Where did it all go wrong/Emotions and their real purpose.md"
-    },
-    {
-      "basename": "People",
-      "path": "02-Projects/Where did it all go wrong/People.md"
-    },
-    {
-      "basename": "God",
-      "path": "02-Projects/Where did it all go wrong/God.md"
-    },
-    {
-      "basename": "Skills",
-      "path": "00-Inbox/Work/Job/Skills.md"
-    },
-    {
-      "basename": "LLM Dashboard",
-      "path": "02-Projects/LLM/LLM Dashboard.md"
-    },
-    {
-      "basename": "Backlog",
-      "path": "00-Inbox/Work/Backflipt/Tasks/Backlog.md"
-    },
-    {
-      "basename": "Vector Embeddings",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
-    },
-    {
-      "basename": "Personal-Creds",
-      "path": "00-Inbox/Personal/Personal-Creds.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "00-Inbox/Personal/Questions.md"
-    },
-    {
-      "basename": "Website Inforamation",
-      "path": "00-Inbox/Personal/Website Inforamation.md"
     }
   ],
   "omittedPaths": [],

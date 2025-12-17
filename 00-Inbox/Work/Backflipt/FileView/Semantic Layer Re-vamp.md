@@ -1,0 +1,186 @@
+#FileView/SemanticAgent 
+
+Question
+Primary : Type of Question
+Secondary: Files, Count
+Time: 
+Graph: 
+X-axis:
+Y-axis:
+Table Columns: 
+
+Question 1: How many files were received today?
+Query 1:
+```sql
+SELECT   senderid               AS "SENDER",  
+         **Count**(DISTINCT coreid) AS "RECEIVED"  
+FROM     xfbtransfer_h  
+WHERE    location = <instance_location>  
+AND      state IN ('AVAILABLE',  
+                   'TO_EXECUTE')  
+AND      to_number(eventtimestamp) >= ((trunc(SYSDATE) - DATE '1970-01-01') * 86400 * 1000)  
+GROUP BY senderid  
+ORDER BY count(DISTINCT coreid) DESC
+
+```
+
+Question 2: Did any file transfers fail today?
+Query 2:
+```sql
+SELECT 
+  (
+    CASE WHEN TO_NUMBER(
+      TO_CHAR(
+        DATE '1970-01-01' + (
+          TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+        ), 
+        'HH24'
+      )
+    ) = 0 THEN '12 AM - 1 AM' WHEN TO_NUMBER(
+      TO_CHAR(
+        DATE '1970-01-01' + (
+          TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+        ), 
+        'HH24'
+      )
+    ) = 12 THEN '12 PM - 1 PM' WHEN TO_NUMBER(
+      TO_CHAR(
+        DATE '1970-01-01' + (
+          TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+        ), 
+        'HH24'
+      )
+    ) < 12 THEN TO_CHAR(
+      TO_NUMBER(
+        TO_CHAR(
+          DATE '1970-01-01' + (
+            TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+          ), 
+          'HH24'
+        )
+      )
+    ) || ' AM - ' || TO_CHAR(
+      TO_NUMBER(
+        TO_CHAR(
+          DATE '1970-01-01' + (
+            TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+          ), 
+          'HH24'
+        )
+      ) + 1
+    ) || ' AM' ELSE TO_CHAR(
+      TO_NUMBER(
+        TO_CHAR(
+          DATE '1970-01-01' + (
+            TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+          ), 
+          'HH24'
+        )
+      ) -12
+    ) || ' PM - ' || TO_CHAR(
+      TO_NUMBER(
+        TO_CHAR(
+          DATE '1970-01-01' + (
+            TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+          ), 
+          'HH24'
+        )
+      ) -11
+    ) || ' PM' END
+  ) AS "TIME", 
+  COUNT(DISTINCT COREID) AS "TRANSFERS" 
+FROM 
+  XFBTRANSFER_H 
+WHERE 
+  LOCATION = 'fileview-st' 
+  AND STATE = 'FAILED' 
+  AND TO_NUMBER(EVENTTIMESTAMP) >= (
+    (
+      TRUNC(SYSDATE) - DATE '1970-01-01'
+    ) * 86400 * 1000
+  ) 
+GROUP BY 
+  TO_CHAR(
+    DATE '1970-01-01' + (
+      TO_NUMBER(EVENTTIMESTAMP) / 1000 / 86400
+    ), 
+    'HH24'
+  ) 
+ORDER BY 
+  MIN(
+    TO_NUMBER(EVENTTIMESTAMP)
+  )
+```
+
+#### Items required to construct a query
+	
+- Type of the query :
+	- Detail (Particular Fields)
+	- Aggregation (Count)
+- Filter 
+	- State (Sent/Received/Failed/Available)
+	- Time 
+		- Unit (day, week, last week, month)
+		- Value (integer value)
+		- from
+		- at
+	- Entities (string)
+		- Account (SenderID/ReceiverID)
+		- Partner
+		- Protocolfilename
+		- Client
+		- BusinessTag
+	- location (string)
+- Order by
+	- Field
+	- Order (Asc/Desc)
+- Group by
+	- Field (Entity/Time)
+- Limit (Integer)
+- Table Name
+#### Implementation of the Semantic Layer :
+
+**Current:**
+Question -> Semantic Layer Agent -> Raw Semantic Layer Output -> Semantic Output Converter (mappings) -> Semantic Layer Output (with required Column Names) -> SQL Query Generation Agent -> Query
+
+**Suggested:**
+Question + Detailed Table Schema -> Semantic Layer Agent -> Semantic Layer Output (with required column Names) -> SQL Query Constructor -> Query
+
+
+``` json
+COLUMN_MAP = {
+    "partner": "PARTNERNAME",
+    "account": "SENDERID", 
+    "partner_account": "SOURCEACCOUNT",
+    "client": "CLIENTNAME",
+    "business_tag": "BUSINESSTAG",
+    "filename": "PROTOCOLFILENAME",
+    "receiver": "RECEIVERID",
+    "sender": "SENDERID"
+}
+
+STATE_MAP = {
+    "default": "('AVAILABLE','SENT','TO_EXECUTE','FAILED')",
+    "failed": "('FAILED')",
+    "receive": "('RECEIVED')",
+    "sent": "('SENT')"
+}
+
+TIME_MAP = {
+    "today": "TO_NUMBER(EVENTTIMESTAMP) >= ((TRUNC(SYSDATE) - DATE '1970-01-01') * 86400 * 1000)",
+    "yesterday": "TO_NUMBER(EVENTTIMESTAMP) >= ((TRUNC(SYSDATE-1) - DATE '1970-01-01') * 86400 * 1000) AND TO_NUMBER(EVENTTIMESTAMP) < ((TRUNC(SYSDATE) - DATE '1970-01-01') * 86400 * 1000)",
+}
+
+```
+
+
+##### Tasks
+- [x] TAACOs for Semantic Layer
+	- [x] implement TAACOs for semantic Layer
+	- [x] Create sample excel sheet
+- [ ] Update Semantic Agent
+	- [ ] update the Semantic Layer Prompt
+	- [ ] implement structured output
+- [ ] Update Admin.json5
+- [ ] implement received type question from admin.xlsx
+- [ ] Test

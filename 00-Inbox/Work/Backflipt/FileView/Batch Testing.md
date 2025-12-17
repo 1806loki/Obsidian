@@ -100,3 +100,42 @@ Staging URL = http://sentinel-ai-analytics-svc.staging.svc.cluster.local
   }
 }
 ```
+
+### JSON Structure Accuracy
+```
+
+{
+  "outputGeneration": {
+    "endpoints": [
+      {
+        "url": "https://9f720c60b69e.ngrok-free.app/conversation",
+        "body": {
+          "question": "",
+          "question_id": "123",
+          "chat_id": "decomp_12",
+          "time_zone": "Asia/Calcutta",
+          "location" : "axway-st-4",
+          "__refs": {
+            "question": ""
+          }
+        },
+        "evals": [
+          {
+            "name": "JSON Structure Accuracy check",
+            "path": [],
+            "metrics": [
+              "JSONStructureAccuracy"
+            ]
+          }
+        ]
+      }
+    ],
+    "authentication": {
+      "sid": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMywiZW1haWxfaWQiOiJhbm9vcGNoYW5kcmFAYmFja2ZsaXB0LmNvbSJ9.1g-MxodeSa_A7evY3TMrmgJh9J4YxxMTYvBdYt1fBoUW5Y_X7943w7t9h5md9dOpOAERkPgMh0zl6Z7217AGoQ"
+    },
+    "generateVariantQuestions": true,
+    "endpointCallsCountForConsistencyEval": 2,
+    "variantQuestionsCount": 0
+  }
+}
+```
