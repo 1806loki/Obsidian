@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Semantic Layer Re-vamp",
-      "path": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md"
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "Batch Testing",
+      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
+    },
+    {
+      "basename": "ST Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
+    },
+    {
+      "basename": "FileView TODOs",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
+    },
+    {
+      "basename": "Deploymnet Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
     },
     {
       "basename": "TAACOs TODOs",
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
     },
     {
-      "basename": "Batch Testing",
-      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
+      "basename": "FileView",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
+    },
+    {
+      "basename": "Semantic Layer Re-vamp",
+      "path": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md"
+    },
+    {
+      "basename": "Decomposition of Prompts",
+      "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "00-Inbox/Work/Job/Questions.md"
+    },
+    {
+      "basename": "Rough Notes",
+      "path": "00-Inbox/Personal/Rough Notes.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "02-Projects/Sophia OS/Plan.md"
     },
     {
       "basename": "Competitor Market Analysis",
@@ -21,24 +57,12 @@
       "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
     },
     {
-      "basename": "Questions",
-      "path": "00-Inbox/Work/Job/Questions.md"
-    },
-    {
-      "basename": "FileView TODOs",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
-    },
-    {
       "basename": "TAACOS",
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
     },
     {
       "basename": "Alerts Revamp",
       "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
-    },
-    {
-      "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
     },
     {
       "basename": "Claude Monthly Cost",
@@ -77,16 +101,8 @@
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
     },
     {
-      "basename": "Deploymnet Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
-    },
-    {
       "basename": "FileView MOC",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
-    },
-    {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
     {
       "basename": "Gen-AI MOC",
@@ -117,10 +133,6 @@
       "path": "00-Inbox/Personal/Notes.md"
     },
     {
-      "basename": "Rough Notes",
-      "path": "00-Inbox/Personal/Rough Notes.md"
-    },
-    {
       "basename": "Pasted image 20251126115726",
       "path": "Pasted image 20251126115726.png"
     },
@@ -145,10 +157,6 @@
       "path": "00-Inbox/Work/Work MOC.md"
     },
     {
-      "basename": "Decomposition of Prompts",
-      "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
-    },
-    {
       "basename": "2025-10-14",
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
     },
@@ -167,10 +175,6 @@
     {
       "basename": "De-clutter",
       "path": "00-Inbox/Personal/De-clutter.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "02-Projects/Sophia OS/Plan.md"
     },
     {
       "basename": "Mimir",
@@ -195,10 +199,6 @@
     {
       "basename": "Strong Belief",
       "path": "02-Projects/Where did it all go wrong/Strong Belief.md"
-    },
-    {
-      "basename": "Slaves and Soldiers",
-      "path": "02-Projects/Where did it all go wrong/Slaves and Soldiers.md"
     }
   ],
   "omittedPaths": [],

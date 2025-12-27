@@ -36,34 +36,6 @@
             }
           },
           {
-            "id": "578310a47095b60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Projects/Blog/Blog Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blog Dashboard"
-            }
-          },
-          {
-            "id": "dbbfb2a0e09f6781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TAACOs for PC Agent"
-            }
-          },
-          {
             "id": "b77c86459cbb5d00",
             "type": "leaf",
             "state": {
@@ -125,30 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-                "mode": "preview",
+                "file": "00-Inbox/Work/Backflipt/Credentials.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploymnet Process"
-            }
-          },
-          {
-            "id": "e59e26f2a9d52fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Job/Questions.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
+              "title": "Credentials"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "32d59bc24227dca5",
@@ -160,26 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TAACOs TODOs"
-            }
-          },
-          {
-            "id": "24d2782b63143350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semantic Layer Re-vamp"
+              "title": "ST Data"
             }
           },
           {
@@ -188,16 +132,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-                "mode": "source",
+                "file": "00-Inbox/Work/Backflipt/Credentials.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FileView TODOs"
+              "title": "Credentials"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +152,7 @@
       {
         "id": "2c159fcd781f570d",
         "type": "tabs",
-        "dimension": 69.6774193548387,
+        "dimension": 67.31182795698925,
         "children": [
           {
             "id": "7f3e5bbdf790169b",
@@ -264,12 +207,12 @@
         ]
       },
       {
-        "id": "4bc663717b3a4164",
+        "id": "f97134a04e8ec02d",
         "type": "tabs",
-        "dimension": 30.32258064516129,
+        "dimension": 32.68817204301075,
         "children": [
           {
-            "id": "e8e0b15d9e9e750e",
+            "id": "24d2782b63143350",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -404,18 +347,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24d2782b63143350",
+  "active": "a0a80b57372632b6",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
     "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
+    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
+    "00-Inbox/Work/Backflipt/Credentials.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView.md",
     "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md",
+    "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md",
+    "00-Inbox/Work/Job/Questions.md",
+    "00-Inbox/Personal/Rough Notes.md",
+    "02-Projects/Sophia OS/Plan.md",
     "02-Projects/Sophia OS/Competitor Market Analysis.md",
     "02-Projects/Sophia OS/Sophia OS Dashboard.md",
-    "00-Inbox/Work/Job/Questions.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
     "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
     "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
     "00-Inbox/Work/Backflipt/FileView/Chart Details.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
@@ -425,17 +374,11 @@
     "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
-    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
     "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
-    "00-Inbox/Work/Backflipt/Credentials.md",
     "Sentinel-Test Data.pdf",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch/Pytorch MOC.md",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/AI MOC.md",
-    "02-Projects/Where did it all go wrong/WDIAGW Dashboard.md",
     "FileView Data Analysis.pdf",
-    "02-Projects/Blog/Blog Dashboard.md",
     "Pasted image 20251126115726.png",
     "~$sentinelData.xlsx",
     "sentinelData.xlsx",

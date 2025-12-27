@@ -89,3 +89,20 @@ Sentinel Oracle DB Connection String :
 ```
     st_sentinel_oracle/BackFlipt$$538@database-1.cd2vwwbuesrp.us-east-1.rds.amazonaws.com:1521/ORCL
 ```
+
+##### SMTP Configuration
+```
+SMTP_HOST=smtp.office365.com
+
+SMTP_PORT=587
+
+SMTP_USERNAME=platformservices@backflipt.com
+
+SMTP_PASSWORD=$$TakeMyPermission123$$
+
+SMTP_FROM_EMAIL=platformservices@backflipt.com
+
+SMTP_USE_TLS=true
+```
+
+`KMS_KEY_ID`=arn:aws:kms:us-east-1:015107134915:key/19ce108c-55c3-4fdf-bdbc-6cc2876c9f3b
