@@ -14,4 +14,11 @@
 - Format the router prompt
 - Update the `questions_to_cache.json`
 - Complete the TODOs
+- Cleanup the env files
+- Update the few shots retrieval methods
+- Automate the data population script
+
+
+Alerts
+- Handle current user email and email mentioned in the query
 - 

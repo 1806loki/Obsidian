@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/Credentials.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credentials"
+              "title": "Deploymnet Process"
             }
           }
         ],
@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ST Data"
+              "title": "FileView Release"
             }
           },
           {
@@ -139,8 +139,23 @@
               "icon": "lucide-file",
               "title": "Credentials"
             }
+          },
+          {
+            "id": "ff778b17f4b067a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FileView TODOs"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -347,14 +362,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a80b57372632b6",
+  "active": "ff778b17f4b067a2",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
     "00-Inbox/Work/Backflipt/Credentials.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
     "00-Inbox/Work/Backflipt/FileView/FileView.md",
     "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md",
     "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md",
@@ -376,7 +392,6 @@
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
     "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
     "Sentinel-Test Data.pdf",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch",
     "FileView Data Analysis.pdf",
     "Pasted image 20251126115726.png",

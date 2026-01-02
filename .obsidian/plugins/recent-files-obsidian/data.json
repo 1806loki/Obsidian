@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "FileView TODOs",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
+    },
+    {
       "basename": "Credentials",
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
     {
-      "basename": "Batch Testing",
-      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
+      "basename": "FileView Release",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
     },
     {
       "basename": "ST Data",
       "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
     },
     {
-      "basename": "FileView TODOs",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
-    },
-    {
       "basename": "Deploymnet Process",
       "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
+    },
+    {
+      "basename": "Batch Testing",
+      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
     },
     {
       "basename": "TAACOs TODOs",
@@ -195,10 +199,6 @@
     {
       "basename": "Unsorted",
       "path": "02-Projects/Where did it all go wrong/Unsorted.md"
-    },
-    {
-      "basename": "Strong Belief",
-      "path": "02-Projects/Where did it all go wrong/Strong Belief.md"
     }
   ],
   "omittedPaths": [],
