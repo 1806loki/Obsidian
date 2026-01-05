@@ -9,16 +9,20 @@
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
     {
+      "basename": "Alerts Revamp",
+      "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
+    },
+    {
+      "basename": "Deploymnet Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
+    },
+    {
       "basename": "FileView Release",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
     },
     {
       "basename": "ST Data",
       "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
-    },
-    {
-      "basename": "Deploymnet Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
     },
     {
       "basename": "Batch Testing",
@@ -63,10 +67,6 @@
     {
       "basename": "TAACOS",
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
-    },
-    {
-      "basename": "Alerts Revamp",
-      "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
     },
     {
       "basename": "Claude Monthly Cost",

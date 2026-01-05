@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-                "mode": "source",
+                "file": "00-Inbox/Work/Backflipt/Credentials.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploymnet Process"
+              "title": "Credentials"
             }
           }
         ],
@@ -147,7 +147,7 @@
               "type": "markdown",
               "state": {
                 "file": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -365,10 +365,11 @@
   "active": "ff778b17f4b067a2",
   "lastOpenFiles": [
     "00-Inbox/Work/Backflipt/Credentials.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
     "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md",
     "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
     "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
     "00-Inbox/Work/Backflipt/FileView/FileView.md",
@@ -380,7 +381,6 @@
     "02-Projects/Sophia OS/Competitor Market Analysis.md",
     "02-Projects/Sophia OS/Sophia OS Dashboard.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
-    "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md",
     "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
     "00-Inbox/Work/Backflipt/FileView/Chart Details.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
