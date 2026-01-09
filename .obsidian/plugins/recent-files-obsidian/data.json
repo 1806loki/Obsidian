@@ -5,8 +5,52 @@
       "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
     },
     {
+      "basename": "TAACOs TODOs",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
+    },
+    {
+      "basename": "2025-11-18",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
+    },
+    {
+      "basename": "2025-10-14",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
+    },
+    {
+      "basename": "2025-10-15",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
+    },
+    {
+      "basename": "2025-11-26",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
+    },
+    {
+      "basename": "2025-12-03",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
+    },
+    {
+      "basename": "2025-12-04",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
+    },
+    {
+      "basename": "Tablespace queries",
+      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
+    },
+    {
       "basename": "Credentials",
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "Batch Testing",
+      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
+    },
+    {
+      "basename": "Populate Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/Populate Data.md"
+    },
+    {
+      "basename": "Rough Notes",
+      "path": "00-Inbox/Personal/Rough Notes.md"
     },
     {
       "basename": "Alerts Revamp",
@@ -25,14 +69,6 @@
       "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
     },
     {
-      "basename": "Batch Testing",
-      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
-    },
-    {
-      "basename": "TAACOs TODOs",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
-    },
-    {
       "basename": "FileView",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
     },
@@ -47,10 +83,6 @@
     {
       "basename": "Questions",
       "path": "00-Inbox/Work/Job/Questions.md"
-    },
-    {
-      "basename": "Rough Notes",
-      "path": "00-Inbox/Personal/Rough Notes.md"
     },
     {
       "basename": "Plan",
@@ -75,26 +107,6 @@
     {
       "basename": "Chart Details",
       "path": "00-Inbox/Work/Backflipt/FileView/Chart Details.md"
-    },
-    {
-      "basename": "2025-11-18",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
-    },
-    {
-      "basename": "2025-10-15",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
-    },
-    {
-      "basename": "2025-11-26",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
-    },
-    {
-      "basename": "2025-12-03",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
-    },
-    {
-      "basename": "2025-12-04",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
     },
     {
       "basename": "TAACOs for Semantic Layer",
@@ -129,10 +141,6 @@
       "path": "02-Projects/Blog/Blog Dashboard.md"
     },
     {
-      "basename": "Populate Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/Populate Data.md"
-    },
-    {
       "basename": "Notes",
       "path": "00-Inbox/Personal/Notes.md"
     },
@@ -159,10 +167,6 @@
     {
       "basename": "Work MOC",
       "path": "00-Inbox/Work/Work MOC.md"
-    },
-    {
-      "basename": "2025-10-14",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
     },
     {
       "basename": "2025-10-01",
@@ -195,10 +199,6 @@
     {
       "basename": "Ideas",
       "path": "02-Projects/Blog/Ideas.md"
-    },
-    {
-      "basename": "Unsorted",
-      "path": "02-Projects/Where did it all go wrong/Unsorted.md"
     }
   ],
   "omittedPaths": [],
