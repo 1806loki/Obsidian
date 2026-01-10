@@ -346,6 +346,13 @@
         "type": "FILES",
         "pattern": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "02-Projects/Things to Explore.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

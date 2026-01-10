@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-30",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
+    },
+    {
+      "basename": "Skills",
+      "path": "00-Inbox/Work/Job/Skills.md"
+    },
+    {
       "basename": "FileView TODOs",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
+    },
+    {
+      "basename": "Things to Explore",
+      "path": "02-Projects/Things to Explore.md"
+    },
+    {
+      "basename": "FileView Release",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
+    },
+    {
+      "basename": "Tablespace queries",
+      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
     },
     {
       "basename": "TAACOs TODOs",
@@ -33,10 +53,6 @@
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
     },
     {
-      "basename": "Tablespace queries",
-      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
-    },
-    {
       "basename": "Credentials",
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
@@ -59,10 +75,6 @@
     {
       "basename": "Deploymnet Process",
       "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
-    },
-    {
-      "basename": "FileView Release",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
     },
     {
       "basename": "ST Data",
@@ -157,10 +169,6 @@
       "path": "00-Inbox/Work/Job/6 months plan.md"
     },
     {
-      "basename": "Skills",
-      "path": "00-Inbox/Work/Job/Skills.md"
-    },
-    {
       "basename": "Life Skills",
       "path": "00-Inbox/Personal/Life/Life Skills.md"
     },
@@ -171,10 +179,6 @@
     {
       "basename": "2025-10-01",
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
-    },
-    {
-      "basename": "2025-09-30",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
     },
     {
       "basename": "Projects MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "Freud’s Stages of Psychosexual Developmental",
       "path": "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "02-Projects/Blog/Ideas.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,3 @@
+- How does Database works
+	- How does type of sql and no-sql languages work
+- 
