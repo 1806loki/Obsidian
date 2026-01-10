@@ -20,8 +20,12 @@
 - [ ] Update env variables.
 - [ ] Run Alerts for only dev env
 
+#### Improvements :
+- Check Haiku 4.5
+- Use different models for different tasks
 
-Discussion with Ruby :
+
+##### Discussion with Ruby :
 - Stacked Bar instead of Multi Bar
 - Can we add New column for Valid Sender and Receiver Id
 
