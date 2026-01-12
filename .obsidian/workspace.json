@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-30"
+              "title": "Tablespace queries"
             }
           }
         ],
@@ -350,12 +350,15 @@
   },
   "active": "ff778b17f4b067a2",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
+    "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md",
     "00-Inbox/Work/Job/Skills.md",
+    "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
     "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Backflipt/FileView/Types of Question Pattern.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
     "02-Projects/Things to Explore.md",
     "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
-    "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
@@ -371,13 +374,10 @@
     "Pasted image 20260106153052.png",
     "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md",
     "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
     "00-Inbox/Work/Backflipt/FileView/FileView.md",
     "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md",
     "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md",
     "00-Inbox/Work/Job/Questions.md",
-    "02-Projects/Sophia OS/Plan.md",
-    "02-Projects/Sophia OS/Competitor Market Analysis.md",
     "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
     "Sentinel-Test Data.pdf",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch",

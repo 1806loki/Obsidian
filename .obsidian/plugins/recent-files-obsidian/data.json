@@ -5,12 +5,28 @@
       "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
     },
     {
-      "basename": "2025-09-30",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
+      "basename": "Tablespace queries",
+      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
     },
     {
       "basename": "Skills",
       "path": "00-Inbox/Work/Job/Skills.md"
+    },
+    {
+      "basename": "Questions For each Agent",
+      "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
+    },
+    {
+      "basename": "ST Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
+    },
+    {
+      "basename": "Types of Question Pattern",
+      "path": "00-Inbox/Work/Backflipt/FileView/Types of Question Pattern.md"
+    },
+    {
+      "basename": "2025-09-30",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
     },
     {
       "basename": "Things to Explore",
@@ -19,10 +35,6 @@
     {
       "basename": "FileView Release",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
-    },
-    {
-      "basename": "Tablespace queries",
-      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
     },
     {
       "basename": "TAACOs TODOs",
@@ -75,10 +87,6 @@
     {
       "basename": "Deploymnet Process",
       "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
-    },
-    {
-      "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
     },
     {
       "basename": "FileView",
@@ -191,14 +199,6 @@
     {
       "basename": "Mimir",
       "path": "02-Projects/Mimir/Mimir.md"
-    },
-    {
-      "basename": "Mimir Dashoboard",
-      "path": "02-Projects/Mimir/Mimir Dashoboard.md"
-    },
-    {
-      "basename": "Freud’s Stages of Psychosexual Developmental",
-      "path": "01-Knowledge/DecaVault/Human Psychology & Influence/Famous Psychologists/Freud’s Stages of Psychosexual Developmental.md"
     }
   ],
   "omittedPaths": [],

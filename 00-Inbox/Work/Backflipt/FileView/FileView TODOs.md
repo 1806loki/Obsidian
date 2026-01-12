@@ -1,5 +1,9 @@
 #### Optimizations
 
+ **Important**
+- [ ] Handle database with large dataset
+
+**Handle later**
 - [ ] Optimize the Fileview to run sub-graphs for testing 
 - [ ] Upgrade to Sonnet 4.5
 - [ ] Update all the error response formats to below
