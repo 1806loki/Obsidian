@@ -1,4 +1,3 @@
-#### Optimizations
 
  **Important**
 - [ ] Handle database with large dataset
