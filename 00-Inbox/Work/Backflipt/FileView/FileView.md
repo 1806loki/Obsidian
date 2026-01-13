@@ -42,3 +42,28 @@ Input → Process → Output
 
 
 Claude Sonnet 4.0 - us.anthropic.claude-sonnet-4-20250514-v1:0
+
+
+#### Commands
+
+**mac**
+```bash
+python3 -m venv venv 
+
+source venv/bin/activate 
+
+pip install -r requirements.txt 
+
+python3 -m uvicorn app.main:app --port 8086 --reload
+```
+
+**windows**
+```bash
+python3  -m venv venv
+
+.\venv\Scripts\activate
+
+pip install -r requirements.txt 
+
+python3 -m uvicorn app.main:app --port 8086 --reload
+```

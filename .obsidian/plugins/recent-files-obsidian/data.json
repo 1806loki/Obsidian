@@ -5,16 +5,48 @@
       "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
     },
     {
-      "basename": "Tablespace queries",
-      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
+      "basename": "FileView",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
     },
     {
-      "basename": "Skills",
-      "path": "00-Inbox/Work/Job/Skills.md"
+      "basename": "Batch Testing",
+      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
+    },
+    {
+      "basename": "TAACOs for Semantic Layer",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
+    },
+    {
+      "basename": "TAACOS",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
+    },
+    {
+      "basename": "TAACOs for PC Agent",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
     },
     {
       "basename": "Questions For each Agent",
       "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
+    },
+    {
+      "basename": "FileView Improvements",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView Improvements.md"
+    },
+    {
+      "basename": "FileView Release",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
+    },
+    {
+      "basename": "Tablespace queries",
+      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
+    },
+    {
+      "basename": "FileView MOC",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
+    },
+    {
+      "basename": "Skills",
+      "path": "00-Inbox/Work/Job/Skills.md"
     },
     {
       "basename": "ST Data",
@@ -31,10 +63,6 @@
     {
       "basename": "Things to Explore",
       "path": "02-Projects/Things to Explore.md"
-    },
-    {
-      "basename": "FileView Release",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
     },
     {
       "basename": "TAACOs TODOs",
@@ -69,10 +97,6 @@
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
     {
-      "basename": "Batch Testing",
-      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
-    },
-    {
       "basename": "Populate Data",
       "path": "00-Inbox/Work/Backflipt/FileView/Populate Data.md"
     },
@@ -87,10 +111,6 @@
     {
       "basename": "Deploymnet Process",
       "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
-    },
-    {
-      "basename": "FileView",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
     },
     {
       "basename": "Semantic Layer Re-vamp",
@@ -117,28 +137,12 @@
       "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
     },
     {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
-    },
-    {
       "basename": "Claude Monthly Cost",
       "path": "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png"
     },
     {
       "basename": "Chart Details",
       "path": "00-Inbox/Work/Backflipt/FileView/Chart Details.md"
-    },
-    {
-      "basename": "TAACOs for Semantic Layer",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
-    },
-    {
-      "basename": "TAACOs for PC Agent",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
-    },
-    {
-      "basename": "FileView MOC",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
     },
     {
       "basename": "Gen-AI MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "De-clutter",
       "path": "00-Inbox/Personal/De-clutter.md"
-    },
-    {
-      "basename": "Mimir",
-      "path": "02-Projects/Mimir/Mimir.md"
     }
   ],
   "omittedPaths": [],

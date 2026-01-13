@@ -22,6 +22,8 @@
 - [ ] Automate the data population script
 - [ ] Update env variables.
 - [ ] Run Alerts for only dev env
+- [ ] Handle Type 2 Axway
+- [ ] Update the pydantic models for the chats
 
 #### Improvements :
 - Check Haiku 4.5
