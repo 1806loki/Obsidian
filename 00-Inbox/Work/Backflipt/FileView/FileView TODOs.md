@@ -30,8 +30,7 @@
 - Use different models for different tasks
 
 
-##### Discussion with Ruby :
+##### Discussion points with Ruby :
 - Stacked Bar instead of Multi Bar
-- Can we add New column for Valid Sender and Receiver Id
 
 

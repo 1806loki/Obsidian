@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "FileView TODOs",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
+      "basename": "Questions For each Agent",
+      "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
     },
     {
       "basename": "FileView",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
+    },
+    {
+      "basename": "Deploymnet Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
+    },
+    {
+      "basename": "Rough",
+      "path": "00-Inbox/Books/Rough.md"
+    },
+    {
+      "basename": "FileView TODOs",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
+    },
+    {
+      "basename": "Sentinel-Test Data",
+      "path": "Sentinel-Test Data.pdf"
+    },
+    {
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "FileView Release",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
     },
     {
       "basename": "Batch Testing",
@@ -25,16 +49,8 @@
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
     },
     {
-      "basename": "Questions For each Agent",
-      "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
-    },
-    {
       "basename": "FileView Improvements",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView Improvements.md"
-    },
-    {
-      "basename": "FileView Release",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
     },
     {
       "basename": "Tablespace queries",
@@ -93,10 +109,6 @@
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
     },
     {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
-    },
-    {
       "basename": "Populate Data",
       "path": "00-Inbox/Work/Backflipt/FileView/Populate Data.md"
     },
@@ -107,10 +119,6 @@
     {
       "basename": "Alerts Revamp",
       "path": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md"
-    },
-    {
-      "basename": "Deploymnet Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
     },
     {
       "basename": "Semantic Layer Re-vamp",
@@ -191,14 +199,6 @@
     {
       "basename": "2025-10-01",
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
-    },
-    {
-      "basename": "Projects MOC",
-      "path": "02-Projects/Projects MOC.md"
-    },
-    {
-      "basename": "De-clutter",
-      "path": "00-Inbox/Personal/De-clutter.md"
     }
   ],
   "omittedPaths": [],
