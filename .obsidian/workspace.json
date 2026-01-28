@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -334,11 +334,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b22c5f5da46b5554",
+  "active": "fa65ab98a8004f21",
   "lastOpenFiles": [
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
     "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
     "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
     "00-Inbox/Work/Job/Skills.md",
     "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md",
     "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md",
