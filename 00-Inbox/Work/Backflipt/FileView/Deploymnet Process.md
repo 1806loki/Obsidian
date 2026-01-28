@@ -24,8 +24,8 @@
 **Commands:**
 
 ```bash
-docker build --platform=linux/amd64 -t dockerbackflipt/tiq-fileview:v4.0.0 .
-docker push dockerbackflipt/tiq-fileview:v4.0.0
+docker build --platform=linux/amd64 -f sentinel-ai-analytics/Dockerfile -t dockerbackflipt/tiq-fileview:v4.1.2 .
+docker push dockerbackflipt/tiq-fileview:v4.1.2
 docker run -p 8080:8080 dockerbackflipt/fileview:v4.0.0
 ```
 

@@ -353,6 +353,13 @@
         "type": "FILES",
         "pattern": "02-Projects/Things to Explore.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "00-Inbox/Books/Books MOC.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

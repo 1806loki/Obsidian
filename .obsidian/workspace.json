@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
-                "mode": "preview",
+                "file": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions For each Agent"
+              "title": "FileView TODOs"
             }
           }
         ],
@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Books/Rough.md",
-                "mode": "source",
+                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rough"
+              "title": "ST Data"
             }
           }
         ]
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50499725341797
+    "width": 296.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "3d11e82af689e601",
@@ -333,37 +334,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a80b57372632b6",
+  "active": "b22c5f5da46b5554",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/FileView/FileView.md",
-    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-    "00-Inbox/Books/Rough.md",
     "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-    "Sentinel-Test Data.pdf",
+    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Job/Skills.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md",
+    "00-Inbox/Work/Job/Questions.md",
+    "00-Inbox/Work/Job/Job Details.md",
+    "00-Inbox/Work/Job/6 months plan.md",
     "00-Inbox/Work/Backflipt/Credentials.md",
+    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
+    "00-Inbox/Books/Designing Data-Intense Applications.md",
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Deep Learning/HNSW (Hierarchy  Navigable Small world).md",
+    "00-Inbox/Work/Backflipt/AWS MFT/OpenSearch to PgVector.md",
+    "00-Inbox/Work/Backflipt/AWS MFT",
+    "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md",
+    "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
+    "00-Inbox/Books/Rough.md",
+    "00-Inbox/Books/Books MOC.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView.md",
+    "Sentinel-Test Data.pdf",
     "00-Inbox/Books",
     "Untitled",
     "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
-    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
     "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
-    "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
     "00-Inbox/Work/Backflipt/FileView/FileView Improvements.md",
     "00-Inbox/Work/Backflipt/FileView/Untitled.md",
     "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
-    "00-Inbox/Work/Job/Skills.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
-    "00-Inbox/Work/Backflipt/FileView/Types of Question Pattern.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
-    "02-Projects/Things to Explore.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md",
     "Pasted image 20260106153055.png",
     "Pasted image 20260106153052.png",
     "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
@@ -376,7 +378,6 @@
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG",
     "Pasted image 20251028162007.png",
     "01-Knowledge/DecaVault/Technology/Computer Science/Java/How Java works.png",
     "Pasted image 20250911172723.png",

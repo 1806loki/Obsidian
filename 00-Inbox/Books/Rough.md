@@ -1,13 +1,3 @@
-[Unverified]
-
-Below is a **6–8 week, high-leverage reading + implementation plan** designed specifically for an **Agentic AI engineer**.  
-This plan optimizes for **conceptual depth → applied systems thinking → production realism**.  
-It avoids framework lock-in and maximizes durable understanding.
-
----
-
-# 6–8 Week Reading + Implementation Plan
-
 **Target outcome:** You can _design, justify, and build_ reliable agentic systems—not just assemble demos.
 
 ---
