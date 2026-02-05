@@ -1,4 +1,4 @@
-Blind 75 
+
 ## 1. Sliding Window (5 problems)
 
 1. **Longest Substring Without Repeating Characters**

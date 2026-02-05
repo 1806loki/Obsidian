@@ -23,9 +23,15 @@
 #### Improvements :
 - Check Haiku 4.5
 - Use different models for different tasks
-
-
 ##### Discussion points with Ruby :
 - Stacked Bar instead of Multi Bar
+## Tasks
+- [ ] Update the queries to use Eventtimestamp
+- [ ] Explore total count mismatch
+- [ ] Account Based questions
+- [ ] Analytics pagination
+
+
+
 
 

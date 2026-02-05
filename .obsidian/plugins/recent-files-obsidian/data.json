@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Time Zone",
+      "path": "00-Inbox/Work/Backflipt/FileView/Time Zone.md"
+    },
+    {
       "basename": "FileView TODOs",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
+    },
+    {
+      "basename": "TAACOs TODOs",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "Patterns",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Patterns.md"
+    },
+    {
+      "basename": "DSA Plan to clear interviews",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md"
+    },
+    {
+      "basename": "DSA MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md"
     },
     {
       "basename": "ST Data",
@@ -17,14 +41,6 @@
       "path": "00-Inbox/Work/Job/Skills.md"
     },
     {
-      "basename": "DSA Plan to clear interviews",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md"
-    },
-    {
-      "basename": "DSA MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md"
-    },
-    {
       "basename": "Questions",
       "path": "00-Inbox/Work/Job/Questions.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "6 months plan",
       "path": "00-Inbox/Work/Job/6 months plan.md"
-    },
-    {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
     {
       "basename": "Deploymnet Process",
@@ -121,10 +133,6 @@
       "path": "02-Projects/Things to Explore.md"
     },
     {
-      "basename": "TAACOs TODOs",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
-    },
-    {
       "basename": "2025-11-18",
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Gen-AI MOC",
       "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md"
-    },
-    {
-      "basename": "Pytorch MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch/Pytorch MOC.md"
-    },
-    {
-      "basename": "AI MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/AI MOC.md"
     }
   ],
   "omittedPaths": [],
