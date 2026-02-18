@@ -1,40 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Time Zone",
-      "path": "00-Inbox/Work/Backflipt/FileView/Time Zone.md"
-    },
-    {
       "basename": "FileView TODOs",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
     },
     {
-      "basename": "TAACOs TODOs",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
+      "basename": "Evals",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
     },
     {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+      "basename": "FileView Release",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
+    },
+    {
+      "basename": "Rough",
+      "path": "00-Inbox/Books/Rough.md"
+    },
+    {
+      "basename": "TAACOS",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
+    },
+    {
+      "basename": "FileView MOC",
+      "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
+    },
+    {
+      "basename": "Books MOC",
+      "path": "00-Inbox/Books/Books MOC.md"
+    },
+    {
+      "basename": "Designing Data-Intense Applications",
+      "path": "00-Inbox/Books/Designing Data-Intense Applications.md"
+    },
+    {
+      "basename": "Inbox MOC",
+      "path": "00-Inbox/Inbox MOC.md"
+    },
+    {
+      "basename": "Metronome",
+      "path": "00-Inbox/Work/Backflipt/Metronome/Metronome.md"
+    },
+    {
+      "basename": "Backflipt MOC",
+      "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
+    },
+    {
+      "basename": "Metronome MOC",
+      "path": "00-Inbox/Work/Backflipt/Metronome/Metronome MOC.md"
     },
     {
       "basename": "Patterns",
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Patterns.md"
-    },
-    {
-      "basename": "DSA Plan to clear interviews",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md"
-    },
-    {
-      "basename": "DSA MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md"
-    },
-    {
-      "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
-    },
-    {
-      "basename": "Batch Testing",
-      "path": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md"
     },
     {
       "basename": "Skills",
@@ -53,12 +69,48 @@
       "path": "00-Inbox/Work/Job/6 months plan.md"
     },
     {
-      "basename": "Deploymnet Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
     {
-      "basename": "Designing Data-Intense Applications",
-      "path": "00-Inbox/Books/Designing Data-Intense Applications.md"
+      "basename": "Time Zone",
+      "path": "00-Inbox/Work/Backflipt/FileView/Time Zone.md"
+    },
+    {
+      "basename": "ST Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
+    },
+    {
+      "basename": "DSA Plan to clear interviews",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md"
+    },
+    {
+      "basename": "De-clutter",
+      "path": "00-Inbox/Personal/De-clutter.md"
+    },
+    {
+      "basename": "Devops Map",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md"
+    },
+    {
+      "basename": "CS MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md"
+    },
+    {
+      "basename": "Devops MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops MOC.md"
+    },
+    {
+      "basename": "TAACOs TODOs",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md"
+    },
+    {
+      "basename": "DSA MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md"
+    },
+    {
+      "basename": "Deploymnet Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
     },
     {
       "basename": "HNSW (Hierarchy  Navigable Small world)",
@@ -69,20 +121,8 @@
       "path": "00-Inbox/Work/Backflipt/AWS MFT/OpenSearch to PgVector.md"
     },
     {
-      "basename": "CS MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md"
-    },
-    {
       "basename": "Questions For each Agent",
       "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
-    },
-    {
-      "basename": "Rough",
-      "path": "00-Inbox/Books/Rough.md"
-    },
-    {
-      "basename": "Books MOC",
-      "path": "00-Inbox/Books/Books MOC.md"
     },
     {
       "basename": "FileView",
@@ -93,16 +133,8 @@
       "path": "Sentinel-Test Data.pdf"
     },
     {
-      "basename": "FileView Release",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
-    },
-    {
       "basename": "TAACOs for Semantic Layer",
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
-    },
-    {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
     },
     {
       "basename": "TAACOs for PC Agent",
@@ -115,10 +147,6 @@
     {
       "basename": "Tablespace queries",
       "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
-    },
-    {
-      "basename": "FileView MOC",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
     },
     {
       "basename": "Types of Question Pattern",
@@ -171,34 +199,6 @@
     {
       "basename": "Semantic Layer Re-vamp",
       "path": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md"
-    },
-    {
-      "basename": "Decomposition of Prompts",
-      "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "02-Projects/Sophia OS/Plan.md"
-    },
-    {
-      "basename": "Competitor Market Analysis",
-      "path": "02-Projects/Sophia OS/Competitor Market Analysis.md"
-    },
-    {
-      "basename": "Sophia OS Dashboard",
-      "path": "02-Projects/Sophia OS/Sophia OS Dashboard.md"
-    },
-    {
-      "basename": "Claude Monthly Cost",
-      "path": "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png"
-    },
-    {
-      "basename": "Chart Details",
-      "path": "00-Inbox/Work/Backflipt/FileView/Chart Details.md"
-    },
-    {
-      "basename": "Gen-AI MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md"
     }
   ],
   "omittedPaths": [],

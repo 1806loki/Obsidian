@@ -1,7 +1,3 @@
-
- **Important**
-- [ ] Handle database with large dataset
-
 **Handle later**
 - [ ] Optimize the Fileview to run sub-graphs for testing 
 - [ ] Upgrade to Sonnet 4.5
@@ -13,7 +9,6 @@
  }
 ```
 - [ ] Format the router prompt
-- [ ] Update the `questions_to_cache.json`
 - [ ] Complete the TODOs
 - [ ] Update the few shots retrieval methods
 - [ ] Automate the data population script
@@ -23,13 +18,9 @@
 #### Improvements :
 - Check Haiku 4.5
 - Use different models for different tasks
+- Show tokens usage in the user's profile
 ##### Discussion points with Ruby :
 - Stacked Bar instead of Multi Bar
-## Tasks
-- [ ] Update the queries to use Eventtimestamp
-- [ ] Explore total count mismatch
-- [ ] Account Based questions
-- [ ] Analytics pagination
 
 
 

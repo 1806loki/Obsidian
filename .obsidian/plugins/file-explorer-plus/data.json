@@ -360,6 +360,20 @@
         "type": "FILES",
         "pattern": "00-Inbox/Books/Books MOC.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops MOC.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "00-Inbox/Work/Backflipt/Metronome/Metronome MOC.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

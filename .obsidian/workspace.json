@@ -6,7 +6,7 @@
       {
         "id": "edc51e1ec8c265bf",
         "type": "tabs",
-        "dimension": 53.961634695579654,
+        "dimension": 53.96163469557965,
         "children": [
           {
             "id": "d4511b6e3fb1490c",
@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Time Zone.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time Zone"
+              "title": "FileView Release"
             }
           }
         ],
@@ -98,7 +98,7 @@
       {
         "id": "1e85c41524de2a36",
         "type": "tabs",
-        "dimension": 46.038365304420346,
+        "dimension": 46.03836530442035,
         "children": [
           {
             "id": "b22c5f5da46b5554",
@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ST Data"
+              "title": "FileView TODOs"
             }
           }
         ]
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50499725341797
+    "width": 296.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "3d11e82af689e601",
@@ -321,38 +322,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24d2782b63143350",
+  "active": "b22c5f5da46b5554",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/FileView/Time Zone.md",
+    "00-Inbox/Work/Backflipt/TAACOS/Evals.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
+    "00-Inbox/Books/Rough.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
     "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-    "00-Inbox/Work/Backflipt/Tasks/2026-02-05.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs TODOs.md",
-    "00-Inbox/Work/Backflipt/Credentials.md",
+    "00-Inbox/Books/Books MOC.md",
+    "00-Inbox/Books/Designing Data-Intense Applications.md",
+    "00-Inbox/Inbox MOC.md",
+    "00-Inbox/Work/Backflipt/Metronome/Metronome.md",
+    "00-Inbox/Work/Backflipt/Backflipt MOC.md",
+    "00-Inbox/Work/Backflipt/Metronome/Metronome MOC.md",
     "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Patterns.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
-    "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
+    "00-Inbox/Work/Backflipt/Metronome",
     "00-Inbox/Work/Job/Skills.md",
     "00-Inbox/Work/Job/Questions.md",
     "00-Inbox/Work/Job/Job Details.md",
     "00-Inbox/Work/Job/6 months plan.md",
-    "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md",
-    "00-Inbox/Books/Designing Data-Intense Applications.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Deep Learning/HNSW (Hierarchy  Navigable Small world).md",
-    "00-Inbox/Work/Backflipt/AWS MFT/OpenSearch to PgVector.md",
-    "00-Inbox/Work/Backflipt/AWS MFT",
+    "00-Inbox/Work/Backflipt/Credentials.md",
+    "00-Inbox/Work/Backflipt/FileView/Time Zone.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md",
+    "00-Inbox/Personal/De-clutter.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md",
     "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md",
-    "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
-    "00-Inbox/Books/Rough.md",
-    "00-Inbox/Books/Books MOC.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops MOC.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering",
+    "00-Inbox/Work/Backflipt/Tasks/2026-02-05.md",
+    "00-Inbox/Work/Backflipt/AWS MFT",
     "Sentinel-Test Data.pdf",
     "00-Inbox/Books",
     "Untitled",
-    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
     "Pasted image 20260106153055.png",
     "Pasted image 20260106153052.png",
     "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
@@ -361,10 +364,8 @@
     "Pasted image 20251126115726.png",
     "~$sentinelData.xlsx",
     "sentinelData.xlsx",
-    "PC_Eval_1.xlsx",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI",
     "Pasted image 20251028162007.png",
     "01-Knowledge/DecaVault/Technology/Computer Science/Java/How Java works.png",
     "Pasted image 20250911172723.png",
