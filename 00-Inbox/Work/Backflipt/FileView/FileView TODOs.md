@@ -14,6 +14,8 @@
 - [ ] Automate the data population script
 - [ ] Handle Type 2 Axway
 - [ ] Update the pydantic models for the chats
+- [ ] Use `create_agent()`
+- [ ] Standardize Linting
 
 #### Improvements :
 - Check Haiku 4.5
@@ -21,6 +23,10 @@
 - Show tokens usage in the user's profile
 ##### Discussion points with Ruby :
 - Stacked Bar instead of Multi Bar
+
+Working Branches:
+- chart-recommendation-issue
+- TIQ-1860-incomplete-data-is-being-displayed-for-traffic-related-queries
 
 
 

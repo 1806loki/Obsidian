@@ -3,7 +3,6 @@
 [[Decomposition of Prompts]]
 [[Deploymnet Process]]
 [[FileView]]
-[[Populate Data]]
 [[ReAct and CoT]]
 [[Semantic Layer Re-vamp]]
 [[ST Data]]

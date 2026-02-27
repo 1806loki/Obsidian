@@ -23,45 +23,17 @@
             }
           },
           {
-            "id": "eae6cb3a4851dfab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Populate Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Populate Data"
-            }
-          },
-          {
-            "id": "b77c86459cbb5d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Batch Testing.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Batch Testing"
-            }
-          },
-          {
             "id": "67cba37b36051594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Projects/Sophia OS/Plan.md",
-                "mode": "source",
+                "file": "00-Inbox/Work/Job/Skills.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan"
+              "title": "Skills"
             }
           },
           {
@@ -84,16 +56,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
-                "mode": "source",
+                "file": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Version Control.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FileView Release"
+              "title": "Version Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "1e85c41524de2a36",
@@ -106,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FileView TODOs"
+              "title": "ST Data"
             }
           }
         ]
@@ -147,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "claude",
+                "query": "file`",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50499725341797,
-    "collapsed": true
+    "width": 296.50499725341797
   },
   "right": {
     "id": "3d11e82af689e601",
@@ -322,38 +293,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b22c5f5da46b5554",
+  "active": "67cba37b36051594",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/TAACOS/Evals.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
-    "00-Inbox/Books/Rough.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
     "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
-    "00-Inbox/Books/Books MOC.md",
-    "00-Inbox/Books/Designing Data-Intense Applications.md",
-    "00-Inbox/Inbox MOC.md",
-    "00-Inbox/Work/Backflipt/Metronome/Metronome.md",
-    "00-Inbox/Work/Backflipt/Backflipt MOC.md",
-    "00-Inbox/Work/Backflipt/Metronome/Metronome MOC.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Patterns.md",
-    "00-Inbox/Work/Backflipt/Metronome",
-    "00-Inbox/Work/Job/Skills.md",
-    "00-Inbox/Work/Job/Questions.md",
-    "00-Inbox/Work/Job/Job Details.md",
-    "00-Inbox/Work/Job/6 months plan.md",
-    "00-Inbox/Work/Backflipt/Credentials.md",
-    "00-Inbox/Work/Backflipt/FileView/Time Zone.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA Plan to clear interviews.md",
-    "00-Inbox/Personal/De-clutter.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops MOC.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering",
-    "00-Inbox/Work/Backflipt/Tasks/2026-02-05.md",
-    "00-Inbox/Work/Backflipt/AWS MFT",
+    "00-Inbox/Work/Backflipt/TAACOS/Evals.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
+    "02-Projects/Sophia OS/Plan.md",
     "Sentinel-Test Data.pdf",
+    "Populate Data.md",
+    "00-Inbox/Work/Backflipt/FileView/Populate Data.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Version Control.md",
+    "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md",
+    "00-Inbox/Books/Designing Data-Intense Applications.md",
+    "00-Inbox/Books/Rough.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Software Engineering MOC.md",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md",
+    "01-Knowledge/DecaVault/Productivity, Systems & Execution/Productivity MOC.md",
+    "00-Inbox/Work/Job/6 months plan.md",
+    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Backflipt/Metronome",
+    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering",
+    "00-Inbox/Work/Backflipt/AWS MFT",
     "00-Inbox/Books",
     "Untitled",
     "Pasted image 20260106153055.png",

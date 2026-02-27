@@ -6,6 +6,8 @@ https://dev-backflipt-eval.xeninc.us/docs#/batch%20evaluation
 Staging URL = http://sentinel-ai-analytics-svc.staging.svc.cluster.local 
  QA URL = http://sentinel-ai-analytics-svc.qa-nyl.svc.cluster.local
 
+https://dev-cos.xeninc.us/login
+
 #### SQL Metric
 
 ```json
@@ -103,18 +105,17 @@ Staging URL = http://sentinel-ai-analytics-svc.staging.svc.cluster.local
 
 ### JSON Structure Accuracy
 ```
-
 {
   "outputGeneration": {
     "endpoints": [
       {
-        "url": "https://9f720c60b69e.ngrok-free.app/conversation",
+        "url": "https://eecc-183-82-7-177.ngrok-free.app/api/conversation",
         "body": {
           "question": "",
           "question_id": "123",
           "chat_id": "decomp_12",
           "time_zone": "Asia/Calcutta",
-          "location" : "axway-st-4",
+          "location": "axway-st-4",
           "__refs": {
             "question": ""
           }
@@ -134,7 +135,7 @@ Staging URL = http://sentinel-ai-analytics-svc.staging.svc.cluster.local
       "sid": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMywiZW1haWxfaWQiOiJhbm9vcGNoYW5kcmFAYmFja2ZsaXB0LmNvbSJ9.1g-MxodeSa_A7evY3TMrmgJh9J4YxxMTYvBdYt1fBoUW5Y_X7943w7t9h5md9dOpOAERkPgMh0zl6Z7217AGoQ"
     },
     "generateVariantQuestions": true,
-    "endpointCallsCountForConsistencyEval": 2,
+    "endpointCallsCountForConsistencyEval": 10,
     "variantQuestionsCount": 0
   }
 }
