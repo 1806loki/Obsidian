@@ -1,2 +1,2 @@
-[[Plan]]
+[[Idea]]
 [[Competitor Market Analysis]]

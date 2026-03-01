@@ -1,4 +1,4 @@
-#project/Sophia 
+#project/Sophie 
 ### 1. **Oboe**
 
 - **Founders**: Nir Zicherman and Michael Mignano (former co-founders of Anchor, acquired by Spotify)

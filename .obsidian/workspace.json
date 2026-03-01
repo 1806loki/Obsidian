@@ -78,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/ST Data.md",
-                "mode": "preview",
+                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ST Data"
+              "title": "Designing Your First AI Agent"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file`",
+                "query": "sophia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50499725341797
+    "width": 296.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "3d11e82af689e601",
@@ -188,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Inbox/Work/Job/Job Details.md",
+                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Job Details"
+              "title": "Backlinks for Designing Your First AI Agent"
             }
           },
           {
@@ -207,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Inbox/Work/FASTAPI Commands.md",
+                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from FASTAPI Commands"
+              "title": "Outgoing links from Designing Your First AI Agent"
             }
           },
           {
@@ -236,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Alerts Revamp.md",
+                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alerts Revamp"
+              "title": "Outline of Designing Your First AI Agent"
             }
           },
           {
@@ -293,13 +294,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67cba37b36051594",
+  "active": "72406f2c8f735326",
   "lastOpenFiles": [
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md",
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
+    "02-Projects/Sophie OS/Plan.md",
+    "02-Projects/Sophie OS/Sophie OS Dashboard.md",
+    "02-Projects/Sophie OS/Idea.md",
+    "02-Projects/Projects MOC.md",
+    "02-Projects/Sophie OS/Competitor Market Analysis.md",
+    "02-Projects/Sophia OS/Untitled.md",
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md",
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG MOC.md",
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
+    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
+    "00-Inbox/Work/Job/Skills.md",
+    "00-Inbox/Work/Job/6 months plan.md",
+    "00-Inbox/Work/Job/Questions.md",
+    "00-Inbox/Work/Job/Job Details.md",
     "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md",
     "00-Inbox/Work/Backflipt/TAACOS/Evals.md",
     "00-Inbox/Work/Backflipt/FileView/FileView.md",
     "00-Inbox/Work/Backflipt/FileView/FileView MOC.md",
-    "02-Projects/Sophia OS/Plan.md",
     "Sentinel-Test Data.pdf",
     "Populate Data.md",
     "00-Inbox/Work/Backflipt/FileView/Populate Data.md",
@@ -307,21 +323,6 @@
     "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
     "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md",
-    "00-Inbox/Books/Designing Data-Intense Applications.md",
-    "00-Inbox/Books/Rough.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Software Engineering MOC.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md",
-    "01-Knowledge/DecaVault/Productivity, Systems & Execution/Productivity MOC.md",
-    "00-Inbox/Work/Job/6 months plan.md",
-    "00-Inbox/Work/Backflipt/FileView/FileView Release.md",
-    "00-Inbox/Work/Backflipt/FileView/ST Data.md",
     "00-Inbox/Work/Backflipt/Metronome",
     "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering",
     "00-Inbox/Work/Backflipt/AWS MFT",

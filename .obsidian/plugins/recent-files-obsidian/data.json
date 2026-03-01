@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Designing Your First AI Agent",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md"
+    },
+    {
+      "basename": "Gen-AI MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "02-Projects/Sophie OS/Plan.md"
+    },
+    {
+      "basename": "Sophie OS Dashboard",
+      "path": "02-Projects/Sophie OS/Sophie OS Dashboard.md"
+    },
+    {
+      "basename": "Idea",
+      "path": "02-Projects/Sophie OS/Idea.md"
+    },
+    {
+      "basename": "Projects MOC",
+      "path": "02-Projects/Projects MOC.md"
+    },
+    {
+      "basename": "Competitor Market Analysis",
+      "path": "02-Projects/Sophie OS/Competitor Market Analysis.md"
+    },
+    {
+      "basename": "Similarity Search",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md"
+    },
+    {
+      "basename": "RAG MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG MOC.md"
+    },
+    {
+      "basename": "Vector Embeddings",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
+    },
+    {
+      "basename": "ST Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
+    },
+    {
       "basename": "Skills",
       "path": "00-Inbox/Work/Job/Skills.md"
+    },
+    {
+      "basename": "6 months plan",
+      "path": "00-Inbox/Work/Job/6 months plan.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "00-Inbox/Work/Job/Questions.md"
+    },
+    {
+      "basename": "Job Details",
+      "path": "00-Inbox/Work/Job/Job Details.md"
     },
     {
       "basename": "FileView TODOs",
@@ -19,10 +75,6 @@
     {
       "basename": "FileView MOC",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "02-Projects/Sophia OS/Plan.md"
     },
     {
       "basename": "Sentinel-Test Data",
@@ -93,16 +145,8 @@
       "path": "01-Knowledge/DecaVault/Productivity, Systems & Execution/Productivity MOC.md"
     },
     {
-      "basename": "6 months plan",
-      "path": "00-Inbox/Work/Job/6 months plan.md"
-    },
-    {
       "basename": "FileView Release",
       "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
-    },
-    {
-      "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST Data.md"
     },
     {
       "basename": "TAACOS",
@@ -133,14 +177,6 @@
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Patterns.md"
     },
     {
-      "basename": "Questions",
-      "path": "00-Inbox/Work/Job/Questions.md"
-    },
-    {
-      "basename": "Job Details",
-      "path": "00-Inbox/Work/Job/Job Details.md"
-    },
-    {
       "basename": "Credentials",
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "DSA MOC",
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/DSA MOC.md"
-    },
-    {
-      "basename": "Deploymnet Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deploymnet Process.md"
-    },
-    {
-      "basename": "HNSW (Hierarchy  Navigable Small world)",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Deep Learning/HNSW (Hierarchy  Navigable Small world).md"
-    },
-    {
-      "basename": "OpenSearch to PgVector",
-      "path": "00-Inbox/Work/Backflipt/AWS MFT/OpenSearch to PgVector.md"
-    },
-    {
-      "basename": "Questions For each Agent",
-      "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
-    },
-    {
-      "basename": "TAACOs for Semantic Layer",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
-    },
-    {
-      "basename": "TAACOs for PC Agent",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
-    },
-    {
-      "basename": "FileView Improvements",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView Improvements.md"
-    },
-    {
-      "basename": "Tablespace queries",
-      "path": "00-Inbox/Work/Backflipt/FileView/Tablespace queries.md"
-    },
-    {
-      "basename": "Types of Question Pattern",
-      "path": "00-Inbox/Work/Backflipt/FileView/Types of Question Pattern.md"
     }
   ],
   "omittedPaths": [],

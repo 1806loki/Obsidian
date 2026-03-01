@@ -1,4 +1,4 @@
-#project/Sophia
+#project/Sophie 
 **Objective:**  
 Create a system that helps users learn and achieve their goals by generating personalized learning plans, recommending resources, and providing ongoing feedback based on user input and progress.
 App is a **"The Personal Exploration Hub"**, a place where users:

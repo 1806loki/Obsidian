@@ -73,6 +73,25 @@ Embeddings are learned during pretraining through objectives like:
 |**Continuous & Dense**|No sparse one-hot encoding; information is smoothly distributed|
 |**Distance Metric Sensitive**|Similarity determined via **cosine similarity**, **dot product**, or **Euclidean distance**|
 
+##### Types of Embeddings :
+**Dense Embeddings**
+
+- Continuous, low-dimensional vectors where **most values are non-zero**.
+- Learned representations from neural networks that encode **semantic meaning**.
+- Example dimension: 384, 768, 1536, 3072.
+- 
+**Sparse Embeddings**
+- High-dimensional vectors where **most values are zero**.
+- Typically represent **explicit token/term presence or frequency**.
+- Dimension often equals vocabulary size (10k–1M+).
+
+##### **Most Used Vectorization Techniques**
+
+| Type       | Techniques                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------ |
+| **Dense**  | Word2Vec, GloVe, FastText, Sentence Transformers (SBERT), BERT embeddings, OpenAI / Bedrock embedding models |
+| **Sparse** | Bag of Words (BoW), TF-IDF, BM25, Hashing Vectorizer                                                         |
+
 ##### **Similarity Functions**
 $$
 \text{Cosine Similarity} = \frac{A \cdot B}{||A|| \times ||B||}  
