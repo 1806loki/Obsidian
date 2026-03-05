@@ -374,6 +374,13 @@
         "type": "FILES",
         "pattern": "00-Inbox/Work/Backflipt/Metronome/Metronome MOC.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "00-Inbox/Work/Backflipt/FileView/ST/ST MOC.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

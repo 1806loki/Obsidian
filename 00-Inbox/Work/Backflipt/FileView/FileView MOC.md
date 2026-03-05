@@ -5,5 +5,5 @@
 [[FileView]]
 [[ReAct and CoT]]
 [[Semantic Layer Re-vamp]]
-[[ST Data]]
+[[ST MOC]]
 [[Tablespace queries]]
