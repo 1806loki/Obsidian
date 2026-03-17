@@ -1,4 +1,4 @@
 [[Credentials]]
-[[FileView MOC]]
+[[TransferView MOC]]
 [[Metronome MOC]]
 

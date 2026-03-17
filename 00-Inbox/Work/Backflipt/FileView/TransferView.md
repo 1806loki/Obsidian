@@ -1,4 +1,4 @@
-#FileView 
+#TransferView 
 
 Sentinel AI Analytics is your AI assistant that monitors file transfers, identifies failures, provides troubleshooting solutions, and sends alerts to keep your Axway Secure Transport operations running smoothly.
 

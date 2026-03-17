@@ -356,16 +356,3 @@ After this plan, you will:
 
 There is **no book** that will give you this understanding alone.  
 Books give _models_. **Implementation reveals truth**.
-
----
-
-If you want next, I can:
-
-- Convert this into a **daily schedule**
-    
-- Tailor it to **LangGraph specifically**
-    
-- Design a **capstone agent project** aligned with interviews or enterprise use
-    
-
-Tell me which direction to take.

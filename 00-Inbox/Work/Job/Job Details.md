@@ -22,7 +22,7 @@ Resume Template : https://www.overleaf.com/latex/templates/rendercv-engineeringr
 - **Architecture**: Microservices, Event-driven, Async/await, State management
 - **Monitoring**: LangFuse, Structured logging, Performance metrics, Observability
  .
-## Resume Bullet Points for FileView
+## Resume Bullet Points for TransferView
 
 - Engineered an AI-powered analytics platform using LangGraph orchestration, AWS Bedrock Claude, and semantic analysis to translate natural language queries into optimized SQL, achieving 95%+ query cache hit rate and reducing LLM API calls by 60%+ through vector similarity caching
 

@@ -1,32 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "ST (SecureTransport) Documentation",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST (SecureTransport) Documentation.md"
+      "basename": "TransferView TODOs",
+      "path": "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md"
+    },
+    {
+      "basename": "TransferView",
+      "path": "00-Inbox/Work/Backflipt/FileView/TransferView.md"
+    },
+    {
+      "basename": "TransferView Release",
+      "path": "00-Inbox/Work/Backflipt/FileView/TransferView Release.md"
+    },
+    {
+      "basename": "TransferView MOC",
+      "path": "00-Inbox/Work/Backflipt/FileView/TransferView MOC.md"
     },
     {
       "basename": "ST Data",
       "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md"
     },
     {
+      "basename": "Job Details",
+      "path": "00-Inbox/Work/Job/Job Details.md"
+    },
+    {
+      "basename": "Semantic Layer Re-vamp",
+      "path": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md"
+    },
+    {
+      "basename": "Deployment Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deployment Process.md"
+    },
+    {
       "basename": "Credentials",
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "02-Projects/Sophie OS/Plan.md"
-    },
-    {
-      "basename": "Axway and AWS TransferView code unification",
-      "path": "00-Inbox/Work/Backflipt/FileView/Axway and AWS TransferView code unification.md"
     },
     {
       "basename": "Backflipt MOC",
       "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
     },
     {
-      "basename": "FileView MOC",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView MOC.md"
+      "basename": "2025-11-18",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
+    },
+    {
+      "basename": "2025-10-15",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
+    },
+    {
+      "basename": "2025-10-14",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
+    },
+    {
+      "basename": "2025-10-01",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
+    },
+    {
+      "basename": "2025-09-30",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
+    },
+    {
+      "basename": "TAACOS",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
+    },
+    {
+      "basename": "Evals",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
+    },
+    {
+      "basename": "Books Plan",
+      "path": "00-Inbox/Books/Books Plan.md"
+    },
+    {
+      "basename": "Designing Your First AI Agent",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md"
+    },
+    {
+      "basename": "Devops Map",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md"
+    },
+    {
+      "basename": "Vector Embeddings",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
+    },
+    {
+      "basename": "Similarity Search",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md"
+    },
+    {
+      "basename": "RAG (Reterival-Augmented Generation)",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG (Reterival-Augmented Generation).md"
+    },
+    {
+      "basename": "Designing Data-Intense Applications",
+      "path": "00-Inbox/Books/Designing Data-Intense Applications.md"
+    },
+    {
+      "basename": "Books MOC",
+      "path": "00-Inbox/Books/Books MOC.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "02-Projects/Sophie OS/Plan.md"
+    },
+    {
+      "basename": "ST (SecureTransport) Documentation",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST (SecureTransport) Documentation.md"
+    },
+    {
+      "basename": "Axway and AWS TransferView code unification",
+      "path": "00-Inbox/Work/Backflipt/FileView/Axway and AWS TransferView code unification.md"
     },
     {
       "basename": "ST MOC",
@@ -37,16 +121,8 @@
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Version Control.md"
     },
     {
-      "basename": "Vector Embeddings",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
-    },
-    {
       "basename": "Skills",
       "path": "00-Inbox/Work/Job/Skills.md"
-    },
-    {
-      "basename": "Designing Your First AI Agent",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md"
     },
     {
       "basename": "Gen-AI MOC",
@@ -69,10 +145,6 @@
       "path": "02-Projects/Sophie OS/Competitor Market Analysis.md"
     },
     {
-      "basename": "Similarity Search",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md"
-    },
-    {
       "basename": "RAG MOC",
       "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG MOC.md"
     },
@@ -85,48 +157,12 @@
       "path": "00-Inbox/Work/Job/Questions.md"
     },
     {
-      "basename": "Job Details",
-      "path": "00-Inbox/Work/Job/Job Details.md"
-    },
-    {
-      "basename": "FileView TODOs",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView TODOs.md"
-    },
-    {
-      "basename": "Evals",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
-    },
-    {
-      "basename": "FileView",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView.md"
-    },
-    {
       "basename": "Sentinel-Test Data",
       "path": "Sentinel-Test Data.pdf"
     },
     {
       "basename": "Evals Checklist",
       "path": "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md"
-    },
-    {
-      "basename": "2025-09-30",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
-    },
-    {
-      "basename": "2025-10-01",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
-    },
-    {
-      "basename": "2025-10-14",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
-    },
-    {
-      "basename": "2025-10-15",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
-    },
-    {
-      "basename": "2025-11-18",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
     },
     {
       "basename": "2025-11-26",
@@ -141,14 +177,6 @@
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
     },
     {
-      "basename": "Designing Data-Intense Applications",
-      "path": "00-Inbox/Books/Designing Data-Intense Applications.md"
-    },
-    {
-      "basename": "Rough",
-      "path": "00-Inbox/Books/Rough.md"
-    },
-    {
       "basename": "CS MOC",
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md"
     },
@@ -157,24 +185,8 @@
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Software Engineering MOC.md"
     },
     {
-      "basename": "Devops Map",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md"
-    },
-    {
       "basename": "Productivity MOC",
       "path": "01-Knowledge/DecaVault/Productivity, Systems & Execution/Productivity MOC.md"
-    },
-    {
-      "basename": "FileView Release",
-      "path": "00-Inbox/Work/Backflipt/FileView/FileView Release.md"
-    },
-    {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
-    },
-    {
-      "basename": "Books MOC",
-      "path": "00-Inbox/Books/Books MOC.md"
     },
     {
       "basename": "Inbox MOC",
@@ -183,18 +195,6 @@
     {
       "basename": "Metronome",
       "path": "00-Inbox/Work/Backflipt/Metronome/Metronome.md"
-    },
-    {
-      "basename": "Metronome MOC",
-      "path": "00-Inbox/Work/Backflipt/Metronome/Metronome MOC.md"
-    },
-    {
-      "basename": "Patterns",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Data Structures and Algorithms (DSA)/Patterns.md"
-    },
-    {
-      "basename": "Time Zone",
-      "path": "00-Inbox/Work/Backflipt/FileView/Time Zone.md"
     }
   ],
   "omittedPaths": [],
