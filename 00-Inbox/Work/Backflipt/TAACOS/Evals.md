@@ -66,7 +66,7 @@ https://dev-cos.xeninc.us/login
 ```
 
 ### Tool Accuracy 
-```
+```json
 {
   "outputGeneration": {
     "endpoints": [
@@ -103,7 +103,7 @@ https://dev-cos.xeninc.us/login
 ```
 
 ### JSON Structure Accuracy
-```
+```json
 {
   "outputGeneration": {
     "endpoints": [

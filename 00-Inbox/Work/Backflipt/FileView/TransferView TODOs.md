@@ -1,6 +1,5 @@
 **Handle later**
 - [ ] Optimize the TransferView to run sub-graphs for testing 
-- [ ] Upgrade to Sonnet 4.5
 - [ ] Update all the error response formats to below
 ```json
 {
@@ -17,17 +16,12 @@
 - [ ] Use `create_agent()`
 - [ ] Standardize Linting
 - [ ] Run ruff
+- [ ] Explore [reasoning ](https://docs.langchain.com/oss/python/langchain/models#reasoning) in langchain
 
 #### Improvements :
 - Check Haiku 4.5
 - Use different models for different tasks
 - Show tokens usage in the user's profile
 
-Working Branches:
-- chart-recommendation-issue
-- TIQ-1860-incomplete-data-is-being-displayed-for-traffic-related-queries
-
-
-
-
-
+Backlog Items
+- Multi-turn Chat 

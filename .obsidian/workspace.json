@@ -6,7 +6,7 @@
       {
         "id": "65620603065b3f7b",
         "type": "tabs",
-        "dimension": 46.55172413793103,
+        "dimension": 52.78287461773701,
         "children": [
           {
             "id": "5c8786600a1c873f",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/Deployment Process.md",
+                "file": "00-Inbox/Work/Backflipt/Lumen/Evals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployment Process"
+              "title": "Evals"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "c6e98407c2806b98",
         "type": "tabs",
-        "dimension": 53.44827586206896,
+        "dimension": 47.217125382263,
         "children": [
           {
             "id": "74761e5ccb0976e8",
@@ -51,7 +51,7 @@
               "type": "markdown",
               "state": {
                 "file": "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -265,34 +265,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74761e5ccb0976e8",
+  "active": "46dafd5859be34de",
   "lastOpenFiles": [
+    "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md",
+    "00-Inbox/Work/Backflipt/Lumen/Evals.md",
+    "Pasted image 20260318153445.png",
+    "00-Inbox/Work/Backflipt/TAACOS/Evals.md",
+    "00-Inbox/Work/Backflipt/Lumen",
+    "00-Inbox/Work/Backflipt/FileView/Axway and AWS TransferView code unification.md",
+    "00-Inbox/Work/Backflipt/FileView/Chart Details.md",
+    "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md",
+    "00-Inbox/Work/Backflipt/FileView/Deployment Process.md",
+    "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md",
+    "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
+    "00-Inbox/Work/Backflipt/FileView/ReAct and CoT.md",
+    "00-Inbox/Work/Backflipt/Metronome/Metronome.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
+    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md",
+    "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md",
     "00-Inbox/Work/Backflipt/FileView/TransferView.md",
     "00-Inbox/Work/Backflipt/FileView/TransferView Improvements.md",
     "00-Inbox/Work/Backflipt/FileView/TransferView Release.md",
-    "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md",
     "00-Inbox/Work/Backflipt/FileView/TransferView MOC.md",
-    "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md",
-    "00-Inbox/Work/Job/Job Details.md",
-    "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md",
-    "00-Inbox/Work/Backflipt/FileView/Deployment Process.md",
-    "00-Inbox/Work/Backflipt/Credentials.md",
-    "00-Inbox/Work/Backflipt/Backflipt MOC.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md",
-    "00-Inbox/Work/Backflipt/TAACOS/Evals.md",
-    "00-Inbox/Books/Books Plan.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG (Reterival-Augmented Generation).md",
-    "00-Inbox/Books/Designing Data-Intense Applications.md",
-    "00-Inbox/Books/Books MOC.md",
     "00-Inbox/Work/Backflipt/FileView/ST",
     "Sentinel-Test Data.pdf",
     "00-Inbox/Work/Backflipt/Metronome",
@@ -306,13 +307,11 @@
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch",
     "FileView Data Analysis.pdf",
     "Pasted image 20251126115726.png",
-    "~$sentinelData.xlsx",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png",
     "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png",
     "Pasted image 20251028162007.png",
     "01-Knowledge/DecaVault/Technology/Computer Science/Java/How Java works.png",
     "Pasted image 20250911172723.png",
-    "Pasted image 20250910150840.png",
     "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 5.canvas",

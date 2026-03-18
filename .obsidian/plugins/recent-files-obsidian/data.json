@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Evals",
+      "path": "00-Inbox/Work/Backflipt/Lumen/Evals.md"
+    },
+    {
       "basename": "TransferView TODOs",
       "path": "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md"
+    },
+    {
+      "basename": "Evals",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
+    },
+    {
+      "basename": "Axway and AWS TransferView code unification",
+      "path": "00-Inbox/Work/Backflipt/FileView/Axway and AWS TransferView code unification.md"
+    },
+    {
+      "basename": "Chart Details",
+      "path": "00-Inbox/Work/Backflipt/FileView/Chart Details.md"
+    },
+    {
+      "basename": "Decomposition of Prompts",
+      "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
+    },
+    {
+      "basename": "Deployment Process",
+      "path": "00-Inbox/Work/Backflipt/FileView/Deployment Process.md"
+    },
+    {
+      "basename": "Evals Checklist",
+      "path": "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md"
+    },
+    {
+      "basename": "Questions For each Agent",
+      "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
+    },
+    {
+      "basename": "ReAct and CoT",
+      "path": "00-Inbox/Work/Backflipt/FileView/ReAct and CoT.md"
+    },
+    {
+      "basename": "Metronome",
+      "path": "00-Inbox/Work/Backflipt/Metronome/Metronome.md"
+    },
+    {
+      "basename": "TAACOs for PC Agent",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
+    },
+    {
+      "basename": "TAACOs for Semantic Layer",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
+    },
+    {
+      "basename": "2025-09-30",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
+    },
+    {
+      "basename": "2025-10-01",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
+    },
+    {
+      "basename": "2025-10-14",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
+    },
+    {
+      "basename": "2025-10-15",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
+    },
+    {
+      "basename": "2025-11-18",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
+    },
+    {
+      "basename": "2025-11-26",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
+    },
+    {
+      "basename": "2025-12-03",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
+    },
+    {
+      "basename": "2025-12-04",
+      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
     },
     {
       "basename": "TransferView",
@@ -29,10 +109,6 @@
       "path": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md"
     },
     {
-      "basename": "Deployment Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deployment Process.md"
-    },
-    {
       "basename": "Credentials",
       "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
@@ -41,32 +117,8 @@
       "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
     },
     {
-      "basename": "2025-11-18",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
-    },
-    {
-      "basename": "2025-10-15",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
-    },
-    {
-      "basename": "2025-10-14",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
-    },
-    {
-      "basename": "2025-10-01",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
-    },
-    {
-      "basename": "2025-09-30",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
-    },
-    {
       "basename": "TAACOS",
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
-    },
-    {
-      "basename": "Evals",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
     },
     {
       "basename": "Books Plan",
@@ -109,10 +161,6 @@
       "path": "00-Inbox/Work/Backflipt/FileView/ST/ST (SecureTransport) Documentation.md"
     },
     {
-      "basename": "Axway and AWS TransferView code unification",
-      "path": "00-Inbox/Work/Backflipt/FileView/Axway and AWS TransferView code unification.md"
-    },
-    {
       "basename": "ST MOC",
       "path": "00-Inbox/Work/Backflipt/FileView/ST/ST MOC.md"
     },
@@ -151,50 +199,6 @@
     {
       "basename": "6 months plan",
       "path": "00-Inbox/Work/Job/6 months plan.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "00-Inbox/Work/Job/Questions.md"
-    },
-    {
-      "basename": "Sentinel-Test Data",
-      "path": "Sentinel-Test Data.pdf"
-    },
-    {
-      "basename": "Evals Checklist",
-      "path": "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md"
-    },
-    {
-      "basename": "2025-11-26",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
-    },
-    {
-      "basename": "2025-12-03",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
-    },
-    {
-      "basename": "2025-12-04",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
-    },
-    {
-      "basename": "CS MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/CS MOC.md"
-    },
-    {
-      "basename": "Software Engineering MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Software Engineering MOC.md"
-    },
-    {
-      "basename": "Productivity MOC",
-      "path": "01-Knowledge/DecaVault/Productivity, Systems & Execution/Productivity MOC.md"
-    },
-    {
-      "basename": "Inbox MOC",
-      "path": "00-Inbox/Inbox MOC.md"
-    },
-    {
-      "basename": "Metronome",
-      "path": "00-Inbox/Work/Backflipt/Metronome/Metronome.md"
     }
   ],
   "omittedPaths": [],
