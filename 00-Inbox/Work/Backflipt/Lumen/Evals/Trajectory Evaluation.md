@@ -1,5 +1,5 @@
 ## Runtime evaluation of agents: a full landscape view
-
+Trajectory
 The industry has converged on a clear mental model here. "Runtime eval" splits into two distinct problems that are often conflated:
 
 **Online eval** — scoring/evaluating agent behavior on live production traffic, asynchronously or in near-real-time. This is what most people mean when they say runtime eval.

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Evals",
-      "path": "00-Inbox/Work/Backflipt/Lumen/Evals.md"
+      "basename": "Notes",
+      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Notes.md"
+    },
+    {
+      "basename": "Trajectory Evaluation",
+      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Trajectory Evaluation.md"
+    },
+    {
+      "basename": "OTel vs LangGraph Callback",
+      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/OTel vs LangGraph Callback.md"
+    },
+    {
+      "basename": "ST Setup",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Setup.md"
+    },
+    {
+      "basename": "ST Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md"
+    },
+    {
+      "basename": "Sentinel-Test Data",
+      "path": "Sentinel-Test Data.pdf"
     },
     {
       "basename": "TransferView TODOs",
@@ -97,10 +117,6 @@
       "path": "00-Inbox/Work/Backflipt/FileView/TransferView MOC.md"
     },
     {
-      "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md"
-    },
-    {
       "basename": "Job Details",
       "path": "00-Inbox/Work/Job/Job Details.md"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "Sophie OS Dashboard",
       "path": "02-Projects/Sophie OS/Sophie OS Dashboard.md"
-    },
-    {
-      "basename": "Idea",
-      "path": "02-Projects/Sophie OS/Idea.md"
-    },
-    {
-      "basename": "Projects MOC",
-      "path": "02-Projects/Projects MOC.md"
-    },
-    {
-      "basename": "Competitor Market Analysis",
-      "path": "02-Projects/Sophie OS/Competitor Market Analysis.md"
-    },
-    {
-      "basename": "RAG MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG MOC.md"
-    },
-    {
-      "basename": "6 months plan",
-      "path": "00-Inbox/Work/Job/6 months plan.md"
     }
   ],
   "omittedPaths": [],
