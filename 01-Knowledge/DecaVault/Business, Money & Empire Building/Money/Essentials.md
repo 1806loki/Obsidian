@@ -5,5 +5,3 @@
 - Provident Fund
 - Emergency Fund
 - Retirement fund(FIRE)
-
-scs
