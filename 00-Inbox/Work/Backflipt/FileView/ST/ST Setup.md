@@ -15,9 +15,15 @@ scp -i ~/.ssh/st-instance.pem XFBTransfer.xml ec2-user@13.218.125.218:/home/ec2-
 
 
 Dev
+```bash
 ssh -i ~/.ssh/st-instance.pem ec2-user@44.203.122.209
+```
+
 172-31-95-32
 
 QA 
+```bash
 ssh -i ~/.ssh/st-instance.pem ec2-user@13.218.125.218
+```
+
 172-31-36-225

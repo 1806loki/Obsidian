@@ -1,61 +1,24 @@
 {
   "main": {
-    "id": "d44c52e58886ae56",
+    "id": "74e663113844f6ef",
     "type": "split",
     "children": [
       {
-        "id": "65620603065b3f7b",
+        "id": "897d01859c5ae934",
         "type": "tabs",
-        "dimension": 52.78287461773701,
         "children": [
           {
-            "id": "5c8786600a1c873f",
+            "id": "6ff2c24fe3a911d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ST Data"
-            }
-          },
-          {
-            "id": "46dafd5859be34de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/Lumen/Evals/Notes.md",
+                "file": "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c6e98407c2806b98",
-        "type": "tabs",
-        "dimension": 47.217125382263,
-        "children": [
-          {
-            "id": "74761e5ccb0976e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TransferView TODOs"
+              "title": "Essentials"
             }
           }
         ]
@@ -64,16 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5d12417c0853ea7",
+    "id": "0c879d622c5f1229",
     "type": "split",
     "children": [
       {
-        "id": "2c159fcd781f570d",
+        "id": "f78ace1a767edca3",
         "type": "tabs",
-        "dimension": 67.34258271077908,
         "children": [
           {
-            "id": "7f3e5bbdf790169b",
+            "id": "9884983c11ff835f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,12 +48,12 @@
             }
           },
           {
-            "id": "97a20e29cf7ce895",
+            "id": "840ff3de904ac839",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "fileview",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +65,7 @@
             }
           },
           {
-            "id": "e7deece25e0a37b3",
+            "id": "a47b98798cc39655",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,57 +73,30 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "bacd30357a09bd41",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
-        ]
-      },
-      {
-        "id": "f97134a04e8ec02d",
-        "type": "tabs",
-        "dimension": 32.657417289220916,
-        "children": [
-          {
-            "id": "24d2782b63143350",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 296.50499725341797
+    "width": 300
   },
   "right": {
-    "id": "3d11e82af689e601",
+    "id": "684ae6cac9b147fc",
     "type": "split",
     "children": [
       {
-        "id": "07a1dad289b023f5",
+        "id": "f94bee47fa2bd319",
         "type": "tabs",
-        "dimension": 60.71428571428571,
         "children": [
           {
-            "id": "b2cdcd1e6b784c94",
+            "id": "fc33e2c9c567e8f7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
-                "collapseAll": false,
+                "file": "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -170,30 +105,30 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vector Embeddings"
+              "title": "Backlinks for Essentials"
             }
           },
           {
-            "id": "ea849da5323ceb11",
+            "id": "dd094af4c3e1e346",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vector Embeddings"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "72406f2c8f735326",
+            "id": "1af55c7b9a4de75a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,22 +138,46 @@
             }
           },
           {
-            "id": "e403edc1f5f71d80",
+            "id": "575c66c2df32af3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "6b8c3b05f0e05ec1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md",
-                "followCursor": true,
+                "file": "Untitled.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vector Embeddings"
+              "title": "Outline of Untitled"
             }
           },
           {
-            "id": "fa65ab98a8004f21",
+            "id": "d3d7dd642172b6e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "73b0bee1524bf56b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -228,24 +187,7 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "c75050a930128a68",
-        "type": "tabs",
-        "dimension": 39.285714285714285,
-        "children": [
-          {
-            "id": "d1e38be0f67a71fa",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -253,109 +195,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "d8b5510184ee513f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "05ddb9149353a773",
-        "type": "window",
-        "children": [
-          {
-            "id": "0759ac9c28b25e75",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "555fa3a7ec4bd7c1",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Sentinel-Test Data.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Sentinel-Test Data"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "7f3e5bbdf790169b",
+  "active": "fc33e2c9c567e8f7",
   "lastOpenFiles": [
-    "00-Inbox/Work/Backflipt/Lumen/Evals/Untitled.md",
-    "00-Inbox/Work/Backflipt/Lumen/Evals/Notes.md",
-    "00-Inbox/Work/Backflipt/Lumen/Evals/Trajectory Evaluation.md",
-    "00-Inbox/Work/Backflipt/Lumen/Evals/OTel vs LangGraph Callback.md",
-    "00-Inbox/Work/Backflipt/Lumen/Evals",
-    "00-Inbox/Work/Backflipt/FileView/ST/ST Setup.md",
-    "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md",
-    "Sentinel-Test Data.pdf",
-    "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md",
-    "Pasted image 20260318153445.png",
-    "00-Inbox/Work/Backflipt/TAACOS/Evals.md",
-    "00-Inbox/Work/Backflipt/Lumen",
-    "00-Inbox/Work/Backflipt/FileView/Axway and AWS TransferView code unification.md",
-    "00-Inbox/Work/Backflipt/FileView/Chart Details.md",
-    "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md",
-    "00-Inbox/Work/Backflipt/FileView/Deployment Process.md",
-    "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md",
-    "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
-    "00-Inbox/Work/Backflipt/FileView/ReAct and CoT.md",
-    "00-Inbox/Work/Backflipt/Metronome/Metronome.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md",
-    "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md",
-    "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md",
-    "00-Inbox/Work/Backflipt/FileView/ST",
-    "00-Inbox/Work/Backflipt/Metronome",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering",
-    "00-Inbox/Work/Backflipt/AWS MFT",
-    "00-Inbox/Books",
-    "Untitled",
-    "Pasted image 20260106153055.png",
-    "Pasted image 20260106153052.png",
-    "00-Inbox/Work/Backflipt/FileView/Claude Monthly Cost.png",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch",
-    "Pasted image 20251126115726.png",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png",
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png",
-    "Pasted image 20251028162007.png",
-    "01-Knowledge/DecaVault/Technology/Computer Science/Java/How Java works.png",
-    "Pasted image 20250911172723.png",
-    "Untitled.canvas",
-    "Untitled 4.canvas",
-    "Untitled 5.canvas",
-    "Untitled 6.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas"
+    "Untitled.base",
+    "Untitled.md",
+    "Welcome.md"
   ]
 }

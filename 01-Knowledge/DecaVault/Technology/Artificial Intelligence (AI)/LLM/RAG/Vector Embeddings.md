@@ -79,7 +79,7 @@ Embeddings are learned during pretraining through objectives like:
 - Continuous, low-dimensional vectors where **most values are non-zero**.
 - Learned representations from neural networks that encode **semantic meaning**.
 - Example dimension: 384, 768, 1536, 3072.
-- 
+
 **Sparse Embeddings**
 - High-dimensional vectors where **most values are zero**.
 - Typically represent **explicit token/term presence or frequency**.

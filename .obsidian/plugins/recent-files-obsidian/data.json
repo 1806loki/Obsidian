@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Notes",
-      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Notes.md"
+      "basename": "Essentials",
+      "path": "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md"
     },
     {
-      "basename": "Trajectory Evaluation",
-      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Trajectory Evaluation.md"
+      "basename": "Designing Data-Intense Applications",
+      "path": "00-Inbox/Books/Designing Data-Intense Applications.md"
+    },
+    {
+      "basename": "Sentinel-Test Data",
+      "path": "Sentinel-Test Data.pdf"
+    },
+    {
+      "basename": "Vector Embeddings",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
+    },
+    {
+      "basename": "Skills",
+      "path": "00-Inbox/Work/Job/Skills.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Notes.md"
     },
     {
       "basename": "OTel vs LangGraph Callback",
       "path": "00-Inbox/Work/Backflipt/Lumen/Evals/OTel vs LangGraph Callback.md"
     },
     {
-      "basename": "ST Setup",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Setup.md"
-    },
-    {
-      "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md"
-    },
-    {
-      "basename": "Sentinel-Test Data",
-      "path": "Sentinel-Test Data.pdf"
+      "basename": "Hybrid Evaluation Implementation Strategy for AI Applications",
+      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Hybrid Evaluation Implementation Strategy for AI Applications.md"
     },
     {
       "basename": "TransferView TODOs",
@@ -31,6 +39,22 @@
     {
       "basename": "Evals",
       "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
+    },
+    {
+      "basename": "TAACOs for PC Agent",
+      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
+    },
+    {
+      "basename": "ST Setup",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Setup.md"
+    },
+    {
+      "basename": "Trajectory Evaluation",
+      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Trajectory Evaluation.md"
+    },
+    {
+      "basename": "ST Data",
+      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md"
     },
     {
       "basename": "Axway and AWS TransferView code unification",
@@ -63,10 +87,6 @@
     {
       "basename": "Metronome",
       "path": "00-Inbox/Work/Backflipt/Metronome/Metronome.md"
-    },
-    {
-      "basename": "TAACOs for PC Agent",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
     },
     {
       "basename": "TAACOs for Semantic Layer",
@@ -149,20 +169,12 @@
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md"
     },
     {
-      "basename": "Vector Embeddings",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
-    },
-    {
       "basename": "Similarity Search",
       "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md"
     },
     {
       "basename": "RAG (Reterival-Augmented Generation)",
       "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG (Reterival-Augmented Generation).md"
-    },
-    {
-      "basename": "Designing Data-Intense Applications",
-      "path": "00-Inbox/Books/Designing Data-Intense Applications.md"
     },
     {
       "basename": "Books MOC",
@@ -185,16 +197,8 @@
       "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Version Control.md"
     },
     {
-      "basename": "Skills",
-      "path": "00-Inbox/Work/Job/Skills.md"
-    },
-    {
       "basename": "Gen-AI MOC",
       "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md"
-    },
-    {
-      "basename": "Sophie OS Dashboard",
-      "path": "02-Projects/Sophie OS/Sophie OS Dashboard.md"
     }
   ],
   "omittedPaths": [],
