@@ -1,0 +1,4 @@
+- Assess Priority Tasks Better
+- Be attentive
+- Be Articulate
+- Be mindful when talking to managers

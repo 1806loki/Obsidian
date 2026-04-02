@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md",
+                "file": "00-Inbox/Work/Backflipt/TransferView/POET Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essentials"
+              "title": "POET Implementation"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md",
+                "file": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Essentials"
+              "title": "Backlinks for Questions For each Agent"
             }
           },
           {
@@ -208,8 +208,15 @@
   },
   "active": "6ff2c24fe3a911d9",
   "lastOpenFiles": [
-    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
+    "00-Inbox/Work/Backflipt/TransferView/TransferView TODOs.md",
+    "00-Inbox/Work/Backflipt/TransferView/POET Implementation.md",
+    "00-Inbox/Personal/Performance Review.md",
+    "00-Inbox/Work/Backflipt/TransferView/Questions For each Agent.md",
+    "00-Inbox/Work/Backflipt/TransferView/ReAct and CoT.md",
+    "00-Inbox/Work/Backflipt/TransferView/Evals Checklist.md",
+    "00-Inbox/Work/Backflipt/TransferView/Types of Question Pattern.md",
     "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md",
+    "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md",
     "Untitled.base",
     "Untitled.md",
     "Welcome.md"

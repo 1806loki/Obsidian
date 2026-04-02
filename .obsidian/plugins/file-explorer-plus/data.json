@@ -260,7 +260,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "00-Inbox/Work/Backflipt/FileView/TransferView MOC.md",
+        "pattern": "00-Inbox/Work/Backflipt/TransferView/TransferView MOC.md",
         "patternType": "STRICT"
       },
       {
@@ -330,7 +330,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md",
+        "pattern": "00-Inbox/Work/Backflipt/TransferView/TransferView TODOs.md",
         "patternType": "STRICT"
       },
       {
@@ -379,7 +379,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "00-Inbox/Work/Backflipt/FileView/ST/ST MOC.md",
+        "pattern": "00-Inbox/Work/Backflipt/TransferView/ST/ST MOC.md",
         "patternType": "STRICT"
       }
     ],

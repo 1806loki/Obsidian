@@ -1,0 +1,4 @@
+- Separate the agents.
+- Implement two node graph (OA and Sub-agents)
+- Use the Agents -> tools Architecture
+- 

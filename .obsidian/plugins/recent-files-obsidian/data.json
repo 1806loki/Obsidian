@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "POET Implementation",
+      "path": "00-Inbox/Work/Backflipt/TransferView/POET Implementation.md"
+    },
+    {
+      "basename": "TransferView TODOs",
+      "path": "00-Inbox/Work/Backflipt/TransferView/TransferView TODOs.md"
+    },
+    {
+      "basename": "Performance Review",
+      "path": "00-Inbox/Personal/Performance Review.md"
+    },
+    {
+      "basename": "Questions For each Agent",
+      "path": "00-Inbox/Work/Backflipt/TransferView/Questions For each Agent.md"
+    },
+    {
+      "basename": "ReAct and CoT",
+      "path": "00-Inbox/Work/Backflipt/TransferView/ReAct and CoT.md"
+    },
+    {
+      "basename": "Evals Checklist",
+      "path": "00-Inbox/Work/Backflipt/TransferView/Evals Checklist.md"
+    },
+    {
+      "basename": "Types of Question Pattern",
+      "path": "00-Inbox/Work/Backflipt/TransferView/Types of Question Pattern.md"
+    },
+    {
       "basename": "Essentials",
       "path": "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md"
     },
@@ -37,10 +65,6 @@
       "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Hybrid Evaluation Implementation Strategy for AI Applications.md"
     },
     {
-      "basename": "TransferView TODOs",
-      "path": "00-Inbox/Work/Backflipt/FileView/TransferView TODOs.md"
-    },
-    {
       "basename": "Evals",
       "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
     },
@@ -50,7 +74,7 @@
     },
     {
       "basename": "ST Setup",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Setup.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST Setup.md"
     },
     {
       "basename": "Trajectory Evaluation",
@@ -58,35 +82,23 @@
     },
     {
       "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST Data.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST Data.md"
     },
     {
       "basename": "Axway and AWS TransferView code unification",
-      "path": "00-Inbox/Work/Backflipt/FileView/Axway and AWS TransferView code unification.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/Axway and AWS TransferView code unification.md"
     },
     {
       "basename": "Chart Details",
-      "path": "00-Inbox/Work/Backflipt/FileView/Chart Details.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/Chart Details.md"
     },
     {
       "basename": "Decomposition of Prompts",
-      "path": "00-Inbox/Work/Backflipt/FileView/Decomposition of Prompts.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/Decomposition of Prompts.md"
     },
     {
       "basename": "Deployment Process",
-      "path": "00-Inbox/Work/Backflipt/FileView/Deployment Process.md"
-    },
-    {
-      "basename": "Evals Checklist",
-      "path": "00-Inbox/Work/Backflipt/FileView/Evals Checklist.md"
-    },
-    {
-      "basename": "Questions For each Agent",
-      "path": "00-Inbox/Work/Backflipt/FileView/Questions For each Agent.md"
-    },
-    {
-      "basename": "ReAct and CoT",
-      "path": "00-Inbox/Work/Backflipt/FileView/ReAct and CoT.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/Deployment Process.md"
     },
     {
       "basename": "Metronome",
@@ -130,15 +142,15 @@
     },
     {
       "basename": "TransferView",
-      "path": "00-Inbox/Work/Backflipt/FileView/TransferView.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/TransferView.md"
     },
     {
       "basename": "TransferView Release",
-      "path": "00-Inbox/Work/Backflipt/FileView/TransferView Release.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/TransferView Release.md"
     },
     {
       "basename": "TransferView MOC",
-      "path": "00-Inbox/Work/Backflipt/FileView/TransferView MOC.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/TransferView MOC.md"
     },
     {
       "basename": "Job Details",
@@ -146,7 +158,7 @@
     },
     {
       "basename": "Semantic Layer Re-vamp",
-      "path": "00-Inbox/Work/Backflipt/FileView/Semantic Layer Re-vamp.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/Semantic Layer Re-vamp.md"
     },
     {
       "basename": "Credentials",
@@ -186,19 +198,7 @@
     },
     {
       "basename": "ST (SecureTransport) Documentation",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST (SecureTransport) Documentation.md"
-    },
-    {
-      "basename": "ST MOC",
-      "path": "00-Inbox/Work/Backflipt/FileView/ST/ST MOC.md"
-    },
-    {
-      "basename": "Version Control",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Version Control.md"
-    },
-    {
-      "basename": "Gen-AI MOC",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Gen-AI MOC.md"
+      "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST (SecureTransport) Documentation.md"
     }
   ],
   "omittedPaths": [],
