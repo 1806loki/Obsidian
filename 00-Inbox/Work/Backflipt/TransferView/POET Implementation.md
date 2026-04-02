@@ -2,4 +2,4 @@
 - Implement two node graph (OA <-> Sub-agents)
 - Use the conversion of Agents -> tools Architecture
 - Update the Router prompt to include the path that needs to follow
-- 
+
