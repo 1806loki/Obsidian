@@ -1,4 +1,5 @@
 - Separate the agents.
-- Implement two node graph (OA and Sub-agents)
-- Use the Agents -> tools Architecture
+- Implement two node graph (OA <-> Sub-agents)
+- Use the conversion of Agents -> tools Architecture
+- Update the Router prompt to include the path that needs to follow
 - 
