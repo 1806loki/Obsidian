@@ -1,0 +1,9 @@
+- Ask about the past and how are they solving the problem.
+- Never tell about the idea beforehand.
+- Opinions are worthless.
+- Deflect compliments.
+- Startups are about focusing and executing on a single, scalable idea rather than jumping on every good one which crosses your desk. 
+- Find the real reason behind every feature request to avoid Feature-creep.
+- Ideas and feature requests should be understood, but not obeyed.
+- Avoid pitch-mode.
+- The more you’re talking, the worse you’re doing.

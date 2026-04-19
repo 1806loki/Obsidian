@@ -23,5 +23,14 @@
 - Use different models for different tasks
 - Show tokens usage in the user's profile
 
-Backlog Items
-- Multi-turn Chat 
+Working Branches
+- 1866
+- 
+
+
+Tickets:
+- 1987 - Obsolete
+- 1980 - Obsolete
+
+
+

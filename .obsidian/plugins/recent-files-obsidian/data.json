@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "POET Implementation",
-      "path": "00-Inbox/Work/Backflipt/TransferView/POET Implementation.md"
-    },
-    {
       "basename": "TransferView TODOs",
       "path": "00-Inbox/Work/Backflipt/TransferView/TransferView TODOs.md"
     },
     {
-      "basename": "Performance Review",
-      "path": "00-Inbox/Personal/Performance Review.md"
+      "basename": "The MOM test",
+      "path": "00-Inbox/Books/The MOM test.md"
+    },
+    {
+      "basename": "Books MOC",
+      "path": "00-Inbox/Books/Books MOC.md"
+    },
+    {
+      "basename": "Books Plan",
+      "path": "00-Inbox/Books/Books Plan.md"
+    },
+    {
+      "basename": "Claude Notes",
+      "path": "00-Inbox/Personal/Claude Notes.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "02-Projects/Startup/FItbud/Ideas.md"
+    },
+    {
+      "basename": "Fitbud MOC",
+      "path": "02-Projects/Startup/FItbud/Fitbud MOC.md"
+    },
+    {
+      "basename": "Devops Map",
+      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md"
+    },
+    {
+      "basename": "Startup Dashboard",
+      "path": "02-Projects/Startup/Startup Dashboard.md"
+    },
+    {
+      "basename": "Projects MOC",
+      "path": "02-Projects/Projects MOC.md"
+    },
+    {
+      "basename": "De-clutter",
+      "path": "00-Inbox/Personal/De-clutter.md"
+    },
+    {
+      "basename": "Personal MOC",
+      "path": "00-Inbox/Personal/Personal MOC.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "00-Inbox/Personal/Notes.md"
+    },
+    {
+      "basename": "Performance Review April 08, 26",
+      "path": "00-Inbox/Personal/Performance Review April 08, 26.md"
+    },
+    {
+      "basename": "Memories",
+      "path": "00-Inbox/Personal/Life/Memories.md"
+    },
+    {
+      "basename": "Life Skills",
+      "path": "00-Inbox/Personal/Life/Life Skills.md"
+    },
+    {
+      "basename": "Personal-Creds",
+      "path": "00-Inbox/Personal/Personal-Creds.md"
+    },
+    {
+      "basename": "Website Inforamation",
+      "path": "00-Inbox/Personal/Website Inforamation.md"
+    },
+    {
+      "basename": "Backflipt MOC",
+      "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "02-Projects/Startup/Ideas.md"
+    },
+    {
+      "basename": "ST Setup",
+      "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST Setup.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "POET Implementation",
+      "path": "00-Inbox/Work/Backflipt/TransferView/POET Implementation.md"
     },
     {
       "basename": "Questions For each Agent",
@@ -73,10 +153,6 @@
       "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
     },
     {
-      "basename": "ST Setup",
-      "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST Setup.md"
-    },
-    {
       "basename": "Trajectory Evaluation",
       "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Trajectory Evaluation.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "2025-10-15",
       "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
-    },
-    {
-      "basename": "2025-11-18",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-18.md"
-    },
-    {
-      "basename": "2025-11-26",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-11-26.md"
-    },
-    {
-      "basename": "2025-12-03",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-03.md"
-    },
-    {
-      "basename": "2025-12-04",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-12-04.md"
-    },
-    {
-      "basename": "TransferView",
-      "path": "00-Inbox/Work/Backflipt/TransferView/TransferView.md"
-    },
-    {
-      "basename": "TransferView Release",
-      "path": "00-Inbox/Work/Backflipt/TransferView/TransferView Release.md"
-    },
-    {
-      "basename": "TransferView MOC",
-      "path": "00-Inbox/Work/Backflipt/TransferView/TransferView MOC.md"
-    },
-    {
-      "basename": "Job Details",
-      "path": "00-Inbox/Work/Job/Job Details.md"
-    },
-    {
-      "basename": "Semantic Layer Re-vamp",
-      "path": "00-Inbox/Work/Backflipt/TransferView/Semantic Layer Re-vamp.md"
-    },
-    {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
-    },
-    {
-      "basename": "Backflipt MOC",
-      "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
-    },
-    {
-      "basename": "TAACOS",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOS.md"
-    },
-    {
-      "basename": "Books Plan",
-      "path": "00-Inbox/Books/Books Plan.md"
-    },
-    {
-      "basename": "Devops Map",
-      "path": "01-Knowledge/DecaVault/Technology/Computer Science/Sofware Engieering/Devops Map.md"
-    },
-    {
-      "basename": "Similarity Search",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md"
-    },
-    {
-      "basename": "RAG (Reterival-Augmented Generation)",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG (Reterival-Augmented Generation).md"
-    },
-    {
-      "basename": "Books MOC",
-      "path": "00-Inbox/Books/Books MOC.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "02-Projects/Sophie OS/Plan.md"
-    },
-    {
-      "basename": "ST (SecureTransport) Documentation",
-      "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST (SecureTransport) Documentation.md"
     }
   ],
   "omittedPaths": [],
