@@ -1,9 +1,36 @@
-- Ask about the past and how are they solving the problem.
-- Never tell about the idea beforehand.
+- Talk about their life instead of your idea
+- Ask about specifics in the past instead of generics or opinions about the future
+- Talk less and listen more
+- Never tell about the idea in the early conversation.
 - Opinions are worthless.
-- Deflect compliments.
+- Deflect compliments, anchor fluff, and dig beneath signals
 - Startups are about focusing and executing on a single, scalable idea rather than jumping on every good one which crosses your desk. 
+- With your team, decide your big 3 learning goals
+- If you haven’t yet, choose a focused, findable segment
 - Find the real reason behind every feature request to avoid Feature-creep.
 - Ideas and feature requests should be understood, but not obeyed.
 - Avoid pitch-mode.
 - The more you’re talking, the worse you’re doing.
+- Product risk and market risk.
+- commitment and advancement 
+- Every meeting either succeeds or fails.
+- The major currencies are time, reputation risk, and cash.
+- In early stage sales, the real goal is learning. Revenue is just a side-effect.
+- The goal of cold conversations is to stop having them.
+- Just have a good conversation.
+- Organise meetups 
+- Speaking and Teaching
+- Vision / Framing / Weakness / Pedestal / Ask (Very Few Wizards Properly Ask )
+	- Vision — half-sentence version of how you’re making the world better
+	-   Framing — where you’re at and what you’re looking for
+	- Weakness — show how you can be helped
+	- Pedestal — show that they, in particular, can provide that help
+	- Ask — ask for help
+- Willpower is a finite resource. The way to overcome difficult situations isn't to power through, but rather to change your circumstances to require less willpower.
+- Keep having conversations until you stop hearing new stuff.
+- They say that startups don’t starve, they drown.
+- Getting specific about who your ideal customers are allows you to filter out all the noise which comes from everyone else.
+- Prep, Review, and Take notes 
+- Questions to ask to find out hidden product risks
+	- If this company were to fail, why would it have happened?
+	-  What would have to be true for this to be a huge success?

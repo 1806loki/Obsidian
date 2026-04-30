@@ -5,8 +5,116 @@
       "path": "00-Inbox/Work/Backflipt/TransferView/TransferView TODOs.md"
     },
     {
+      "basename": "Similarity Search",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Similarity Search.md"
+    },
+    {
+      "basename": "Agent to Agent Communication",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/Agent to Agent Communication.md"
+    },
+    {
+      "basename": "Mimir",
+      "path": "02-Projects/Mimir/Mimir.md"
+    },
+    {
+      "basename": "Mimir Dashoboard",
+      "path": "02-Projects/Mimir/Mimir Dashoboard.md"
+    },
+    {
+      "basename": "Competitor Market Analysis",
+      "path": "02-Projects/Sophie OS/Competitor Market Analysis.md"
+    },
+    {
+      "basename": "Founder Skills MOC",
+      "path": "01-Knowledge/DecaVault/Business, Money & Empire Building/Founder Skills/Founder Skills MOC.md"
+    },
+    {
+      "basename": "HNSW (Hierarchy  Navigable Small world)",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Deep Learning/HNSW (Hierarchy  Navigable Small world).md"
+    },
+    {
+      "basename": "Pytorch MOC",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Pytorch/Pytorch MOC.md"
+    },
+    {
+      "basename": "Designing Your First AI Agent",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md"
+    },
+    {
+      "basename": "Model Context Protocol",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/Model Context Protocol.md"
+    },
+    {
+      "basename": "Vector Embeddings",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
+    },
+    {
+      "basename": "RAG (Reterival-Augmented Generation)",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/RAG (Reterival-Augmented Generation).md"
+    },
+    {
+      "basename": "Basic_RAG",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Basic_RAG.png"
+    },
+    {
+      "basename": "Advanced_RAG",
+      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Advanced_RAG.png"
+    },
+    {
+      "basename": "Fitbud MOC",
+      "path": "02-Projects/Startup/FItbud/Fitbud MOC.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "02-Projects/Startup/FItbud/Ideas.md"
+    },
+    {
+      "basename": "Questinnaire",
+      "path": "02-Projects/Startup/FItbud/Questinnaire.md"
+    },
+    {
       "basename": "The MOM test",
       "path": "00-Inbox/Books/The MOM test.md"
+    },
+    {
+      "basename": "Inbox MOC",
+      "path": "00-Inbox/Inbox MOC.md"
+    },
+    {
+      "basename": "Art MOC",
+      "path": "00-Inbox/Personal/Art/Art MOC.md"
+    },
+    {
+      "basename": "Personal MOC",
+      "path": "00-Inbox/Personal/Personal MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Backflipt MOC",
+      "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "00-Inbox/Work/Backflipt/Credentials.md"
+    },
+    {
+      "basename": "Profile MOC",
+      "path": "00-Inbox/Work/Backflipt/Profile/Profile MOC.md"
+    },
+    {
+      "basename": "Performance Review April 08, 26",
+      "path": "00-Inbox/Work/Backflipt/Profile/Performance Review April 08, 26.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "00-Inbox/Personal/Notes.md"
+    },
+    {
+      "basename": "Claude Notes",
+      "path": "00-Inbox/Personal/Claude Notes.md"
     },
     {
       "basename": "Books MOC",
@@ -15,18 +123,6 @@
     {
       "basename": "Books Plan",
       "path": "00-Inbox/Books/Books Plan.md"
-    },
-    {
-      "basename": "Claude Notes",
-      "path": "00-Inbox/Personal/Claude Notes.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "02-Projects/Startup/FItbud/Ideas.md"
-    },
-    {
-      "basename": "Fitbud MOC",
-      "path": "02-Projects/Startup/FItbud/Fitbud MOC.md"
     },
     {
       "basename": "Devops Map",
@@ -45,18 +141,6 @@
       "path": "00-Inbox/Personal/De-clutter.md"
     },
     {
-      "basename": "Personal MOC",
-      "path": "00-Inbox/Personal/Personal MOC.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "00-Inbox/Personal/Notes.md"
-    },
-    {
-      "basename": "Performance Review April 08, 26",
-      "path": "00-Inbox/Personal/Performance Review April 08, 26.md"
-    },
-    {
       "basename": "Memories",
       "path": "00-Inbox/Personal/Life/Memories.md"
     },
@@ -73,20 +157,12 @@
       "path": "00-Inbox/Personal/Website Inforamation.md"
     },
     {
-      "basename": "Backflipt MOC",
-      "path": "00-Inbox/Work/Backflipt/Backflipt MOC.md"
-    },
-    {
       "basename": "Ideas",
       "path": "02-Projects/Startup/Ideas.md"
     },
     {
       "basename": "ST Setup",
       "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST Setup.md"
-    },
-    {
-      "basename": "Credentials",
-      "path": "00-Inbox/Work/Backflipt/Credentials.md"
     },
     {
       "basename": "POET Implementation",
@@ -113,10 +189,6 @@
       "path": "01-Knowledge/DecaVault/Business, Money & Empire Building/Money/Essentials.md"
     },
     {
-      "basename": "Designing Your First AI Agent",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/Gen-AI/Designing Your First AI Agent.md"
-    },
-    {
       "basename": "Designing Data-Intense Applications",
       "path": "00-Inbox/Books/Designing Data-Intense Applications.md"
     },
@@ -125,80 +197,8 @@
       "path": "Sentinel-Test Data.pdf"
     },
     {
-      "basename": "Vector Embeddings",
-      "path": "01-Knowledge/DecaVault/Technology/Artificial Intelligence (AI)/LLM/RAG/Vector Embeddings.md"
-    },
-    {
       "basename": "Skills",
       "path": "00-Inbox/Work/Job/Skills.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Notes.md"
-    },
-    {
-      "basename": "OTel vs LangGraph Callback",
-      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/OTel vs LangGraph Callback.md"
-    },
-    {
-      "basename": "Hybrid Evaluation Implementation Strategy for AI Applications",
-      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Hybrid Evaluation Implementation Strategy for AI Applications.md"
-    },
-    {
-      "basename": "Evals",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/Evals.md"
-    },
-    {
-      "basename": "TAACOs for PC Agent",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for PC Agent.md"
-    },
-    {
-      "basename": "Trajectory Evaluation",
-      "path": "00-Inbox/Work/Backflipt/Lumen/Evals/Trajectory Evaluation.md"
-    },
-    {
-      "basename": "ST Data",
-      "path": "00-Inbox/Work/Backflipt/TransferView/ST/ST Data.md"
-    },
-    {
-      "basename": "Axway and AWS TransferView code unification",
-      "path": "00-Inbox/Work/Backflipt/TransferView/Axway and AWS TransferView code unification.md"
-    },
-    {
-      "basename": "Chart Details",
-      "path": "00-Inbox/Work/Backflipt/TransferView/Chart Details.md"
-    },
-    {
-      "basename": "Decomposition of Prompts",
-      "path": "00-Inbox/Work/Backflipt/TransferView/Decomposition of Prompts.md"
-    },
-    {
-      "basename": "Deployment Process",
-      "path": "00-Inbox/Work/Backflipt/TransferView/Deployment Process.md"
-    },
-    {
-      "basename": "Metronome",
-      "path": "00-Inbox/Work/Backflipt/Metronome/Metronome.md"
-    },
-    {
-      "basename": "TAACOs for Semantic Layer",
-      "path": "00-Inbox/Work/Backflipt/TAACOS/TAACOs for Semantic Layer.md"
-    },
-    {
-      "basename": "2025-09-30",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-09-30.md"
-    },
-    {
-      "basename": "2025-10-01",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-01.md"
-    },
-    {
-      "basename": "2025-10-14",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-14.md"
-    },
-    {
-      "basename": "2025-10-15",
-      "path": "00-Inbox/Work/Backflipt/Tasks/2025-10-15.md"
     }
   ],
   "omittedPaths": [],
