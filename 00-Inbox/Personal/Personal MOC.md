@@ -1,2 +1,0 @@
-[[Art MOC]]
-[[Life MOC]]

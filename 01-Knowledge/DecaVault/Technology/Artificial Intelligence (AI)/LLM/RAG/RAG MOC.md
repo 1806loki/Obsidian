@@ -1,5 +1,5 @@
 [[Advanced_RAG.png]]
 [[Basic_RAG.png]]
-[[RAG (Reterival-Augmented Generation)]]
+[[RAG (Retrieval-Augmented Generation)]]
 [[Vector Embeddings]]
 [[Similarity Search]]

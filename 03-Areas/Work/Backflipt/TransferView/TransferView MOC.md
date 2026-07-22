@@ -2,7 +2,7 @@
 [[Chart Details]]
 [[Decomposition of Prompts]]
 [[Deployment Process]]
-[[TransferView]]
+[[TransferView Overview]]
 [[ReAct and CoT]]
 [[Semantic Layer Re-vamp]]
 [[ST MOC]]

@@ -1,5 +1,5 @@
 [[Business, Money & Empire Building MOC|Business, Money & Empire Building MOC]]
-[[Storytellling MOC|Creativity, Storytelling & Mythmaking MOC]]
+[[Storytelling MOC|Creativity, Storytelling & Mythmaking MOC]]
 [[History MOC|History & Military Strategy MOC]]
 [[Psychology MOC|Human Psychology & Influence MOC]]
 [[Law MOC|Law, Crime & Systems of Control MOC]]

@@ -12,4 +12,4 @@ A personal and philosophical deep-dive into decisions, turning points, and regre
 [[People]]
 [[Slaves and Soldiers]]
 [[Strong Belief]]
-[[Unsorted]]
+[[Attraction and Disability]]
